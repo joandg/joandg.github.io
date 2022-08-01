@@ -6,10 +6,63 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXFileReference section */
+		1F84830D2897E4440052D40A /* .github */ = {isa = PBXFileReference; lastKnownFileType = folder; path = .github; sourceTree = "<group>"; };
+		1F84830E2897E4440052D40A /* _data */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _data; sourceTree = "<group>"; };
+		1F84830F2897E4440052D40A /* .all-contributorsrc */ = {isa = PBXFileReference; lastKnownFileType = text; path = ".all-contributorsrc"; sourceTree = "<group>"; };
+		1F8483102897E4440052D40A /* _sass */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _sass; sourceTree = "<group>"; };
+		1F8483112897E4440052D40A /* _news */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _news; sourceTree = "<group>"; };
+		1F8483122897E4440052D40A /* _pages */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _pages; sourceTree = "<group>"; };
+		1F8483132897E4440052D40A /* bin */ = {isa = PBXFileReference; lastKnownFileType = folder; path = bin; sourceTree = "<group>"; };
+		1F8483142897E4440052D40A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		1F8483152897E4440052D40A /* _posts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _posts; sourceTree = "<group>"; };
+		1F8483162897E4440052D40A /* blog */ = {isa = PBXFileReference; lastKnownFileType = folder; path = blog; sourceTree = "<group>"; };
+		1F8483172897E4440052D40A /* _bibliography */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _bibliography; sourceTree = "<group>"; };
+		1F8483182897E4440052D40A /* _projects */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _projects; sourceTree = "<group>"; };
+		1F8483192897E4440052D40A /* _plugins */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _plugins; sourceTree = "<group>"; };
+		1F84831A2897E4440052D40A /* .git */ = {isa = PBXFileReference; lastKnownFileType = folder; path = .git; sourceTree = "<group>"; };
+		1F84831B2897E4440052D40A /* 404.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = 404.html; sourceTree = "<group>"; };
+		1F84831C2897E4440052D40A /* _includes */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _includes; sourceTree = "<group>"; };
+		1F84831D2897E4440052D40A /* robots.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = robots.txt; sourceTree = "<group>"; };
+		1F84831E2897E4440052D40A /* CONTRIBUTING.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = CONTRIBUTING.md; sourceTree = "<group>"; };
+		1F84831F2897E4440052D40A /* Dockerfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Dockerfile; sourceTree = "<group>"; };
+		1F8483202897E4440052D40A /* Gemfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Gemfile; sourceTree = "<group>"; };
+		1F8483212897E4440052D40A /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		1F8483222897E4440052D40A /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		1F8483232897E4440052D40A /* _layouts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _layouts; sourceTree = "<group>"; };
+		1F8483242897E4440052D40A /* _config.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = _config.yml; sourceTree = "<group>"; };
+		1F8483252897E4440052D40A /* assets */ = {isa = PBXFileReference; lastKnownFileType = folder; path = assets; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		1F2EEE772897B3720061DAF3 = {
 			isa = PBXGroup;
 			children = (
+				1F8483172897E4440052D40A /* _bibliography */,
+				1F8483242897E4440052D40A /* _config.yml */,
+				1F84830E2897E4440052D40A /* _data */,
+				1F84831C2897E4440052D40A /* _includes */,
+				1F8483232897E4440052D40A /* _layouts */,
+				1F8483112897E4440052D40A /* _news */,
+				1F8483122897E4440052D40A /* _pages */,
+				1F8483192897E4440052D40A /* _plugins */,
+				1F8483152897E4440052D40A /* _posts */,
+				1F8483182897E4440052D40A /* _projects */,
+				1F8483102897E4440052D40A /* _sass */,
+				1F84830F2897E4440052D40A /* .all-contributorsrc */,
+				1F84831A2897E4440052D40A /* .git */,
+				1F84830D2897E4440052D40A /* .github */,
+				1F8483212897E4440052D40A /* .gitignore */,
+				1F84831B2897E4440052D40A /* 404.html */,
+				1F8483252897E4440052D40A /* assets */,
+				1F8483132897E4440052D40A /* bin */,
+				1F8483162897E4440052D40A /* blog */,
+				1F84831E2897E4440052D40A /* CONTRIBUTING.md */,
+				1F84831F2897E4440052D40A /* Dockerfile */,
+				1F8483202897E4440052D40A /* Gemfile */,
+				1F8483222897E4440052D40A /* LICENSE */,
+				1F8483142897E4440052D40A /* README.md */,
+				1F84831D2897E4440052D40A /* robots.txt */,
 			);
 			sourceTree = "<group>";
 		};
