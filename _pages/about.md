@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor of Applied Mathematics.
-Department of Mathematics and Computer Science, <a href='https://www.uib.eu/'>University of the Balearic Islands</a>. 
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
