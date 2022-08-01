@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Assistant Professor of Applied Mathametics at <a href='#'>Universitat de les Illes Balears</a>.
 
 profile:
   align: right
