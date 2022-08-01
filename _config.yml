@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Joan
 middle_name:
 last_name: Duran
-email: joan dot duran at uib dot es
+email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Joan Duran's personal webpage.
 footer_text: >
@@ -68,14 +68,14 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: joandg # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: joan_dg# your Twitter handle
+twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
-scholar_userid: IgKAJBwAAAAJ # your Google Scholar ID
-orcid_id: 0000-0003-0043-1663 # your ORCID ID
+scholar_userid: # your Google Scholar ID
+orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: Joan_Duran2 # your profile on ResearchGate
+research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
