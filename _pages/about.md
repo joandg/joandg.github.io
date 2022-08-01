@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Assistant Professor of Applied Mathematics.
+Department of Mathematics and Computer Science, <a href='https://www.uib.eu/'>University of the Balearic Islands</a>. 
 
 profile:
   align: right
