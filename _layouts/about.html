@@ -22,46 +22,60 @@ layout: default
             
           </div>
           {%- endif %}
-          
-          <div class="col p-0 pt-4 pb-4">
-              <p class="desc">{{ page.subtitle }}</p>
-              
-              <div style="position: absolute; float: right; right:5px; top:90px">
-                     <img src="assets/img/joanduran.png" align="right" width="360" height="80" />
-                </div>
-           
-<!--           {% if page.profile -%}-->
-<!--           <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">-->
-<!--             {%- if page.profile.image %}-->
-<!--               {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}-->
-<!---->
-<!--               {% if page.profile.image_cicular %}-->
-<!--                 {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}-->
-<!--               {% else %}-->
-<!--                 {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}-->
-<!--               {% endif %}-->
-<!---->
-<!--               {% include figure.html-->
-<!--               path=profile_image_path-->
-<!--               class=profile_image_class-->
-<!--               alt=page.profile.image -%}-->
-<!--             {% endif -%}-->
-<!--             </div>-->
-           </div>
+        
+        <div class="text-center mt-5">
+          <img class="profile-img" src="/assets/img/joanduran.png" />
+        </div>
 
-   
-<!--          {%- if page.profile.address %}-->
-<!--          <div class="address">-->
-<!--            {{ page.profile.address }}-->
-<!--          </div>-->
-<!--          {%- endif %}-->
-<!--        </div>-->
-<!--        {%- endif %}-->
-<!--        -->
+        <div class="col mt-4">
+          <h1 class="title text-center font-weight-bold">Anthony Platanios</h1>
+          <div class="row mt-3 mb-3">
+            <div class="col-sm-6">
+              <h6 class="mt-1 text-left text-sm-right" style="font-stretch: ultra-condensed;">
+                <a style="color: rgb(60, 72, 88);" href="http://www.ml.cmu.edu/" target="_blank">Principal Researcher</a><br />
+                <a style="color: rgb(60, 72, 88);" href="http://www.cs.cmu.edu/" target="_blank">Semantic Machines</a><br />
+                <a style="color: rgb(60, 72, 88);" href="http://www.cmu.edu/" target="_blank">Microsoft</a>
+              </h6>
+            </div>
+            <div class="col-sm-6">
+              <h6 class="mt-1 text-left text-sm-left" style="font-stretch: ultra-condensed;">
+                Berkeley Way West, Floor 7<br />
+                1919 Shattuck Ave<br />
+                Berkeley, CA, 94704
+              </h6>
+            </div>
+          </div>
+        </div>
+           
       </header>
         
         <article>
-          
+            {% if page.profile -%}
+            <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
+              {%- if page.profile.image %}
+                {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
+
+                {% if page.profile.image_cicular %}
+                  {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
+                {% else %}
+                  {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
+                {% endif %}
+
+                {% include figure.html
+                path=profile_image_path
+                class=profile_image_class
+                alt=page.profile.image -%}
+              {% endif -%}
+ <!--          {%- if page.profile.address %}-->
+ <!--          <div class="address">-->
+ <!--            {{ page.profile.address }}-->
+ <!--          </div>-->
+ <!--          {%- endif %}-->
+ <!--        </div>-->
+ <!--        {%- endif %}-->
+ <!--        -->
+
+ </div>
 
           <div class="clearfix">
             {{ content }}
