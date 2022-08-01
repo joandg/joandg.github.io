@@ -40,30 +40,6 @@ layout: default
             {{ content }}
           </div>
           
-          {% if page.email_before_news %}
-          <div class="social_before_news">
-            <span class="contact-icons text-center">
-              <a href="mailto:{{ site.email | encode_email }}"><i class="fas fa-envelope"></i></a>
-            </span>
-          </div>
-          {% endif %}
-          {% if page.social_before_news %}
-          <div class="social_before_news">
-            <span class="contact-icons text-center">
-              {% include social.html %}
-            </span>
-          </div>
-          {% endif %}
-        </div>
-
-          {% if page.news -%}
-          <!-- News -->
-          {%- include news.html %}
-          {%- endif %}
-          {% if page.selected_papers -%}
-            <!-- Selected papers -->
-            {%- include selected_papers.html %}
-          {%- endif %}
           {%- if page.social %}
           <!-- Social -->
           <div class="social">
@@ -77,6 +53,16 @@ layout: default
             
           </div>
           {%- endif %}
+
+          {% if page.news -%}
+          <!-- News -->
+          {%- include news.html %}
+          {%- endif %}
+          {% if page.selected_papers -%}
+            <!-- Selected papers -->
+            {%- include selected_papers.html %}
+          {%- endif %}
+         
         </article>
 
 </div>
