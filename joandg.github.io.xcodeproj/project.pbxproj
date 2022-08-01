@@ -15,7 +15,6 @@
 		1F8483122897E4440052D40A /* _pages */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _pages; sourceTree = "<group>"; };
 		1F8483132897E4440052D40A /* bin */ = {isa = PBXFileReference; lastKnownFileType = folder; path = bin; sourceTree = "<group>"; };
 		1F8483142897E4440052D40A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		1F8483162897E4440052D40A /* blog */ = {isa = PBXFileReference; lastKnownFileType = folder; path = blog; sourceTree = "<group>"; };
 		1F8483172897E4440052D40A /* _bibliography */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _bibliography; sourceTree = "<group>"; };
 		1F8483182897E4440052D40A /* _projects */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _projects; sourceTree = "<group>"; };
 		1F8483192897E4440052D40A /* _plugins */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _plugins; sourceTree = "<group>"; };
@@ -54,7 +53,6 @@
 				1F84831B2897E4440052D40A /* 404.html */,
 				1F8483252897E4440052D40A /* assets */,
 				1F8483132897E4440052D40A /* bin */,
-				1F8483162897E4440052D40A /* blog */,
 				1F84831E2897E4440052D40A /* CONTRIBUTING.md */,
 				1F84831F2897E4440052D40A /* Dockerfile */,
 				1F8483202897E4440052D40A /* Gemfile */,
