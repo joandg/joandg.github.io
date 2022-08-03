@@ -29,6 +29,8 @@ My main research interests include functional analysis, variational methods, con
 
 I have had a long-term collaboration wih the french spatial agency [CNES](http://cnes.fr/en) by contributing to the image restoration chain of the Earth observation satellite [Pleiades](http://pleiades.cnes.fr/en/PLEIADES/index.htm). Together with several members of TAMI, I am currently working with [Dr. Jamila Mifdal](http://jamilamifdal.com/) from the [$$\Phi$$-Lab](http://philab.phi.esa.int/) at the [European Spatial Agency (ESA)](http://www.esa.int) and the research team led by  [Prof. Salud Deudero](http://www.ba.ieo.es/es/personal/12-contacts/15-salud-deudero-company) from the [Oceanographic Centre of the Balearic Islands (COB)](http://www.ba.ieo.es) on the design of deep unfolding networks for the fusion of remote sensing data and the automatic detection of floating objects in the Mediterranena Sea.
 
-From July 2021, I am deputy director of the [Higher Polytechnic School](http://eps.uib.es/) and head of studies of the Degree in Mathematics at UIB.
+From July 2021, I am deputy director of the [Higher Polytechnic School](http://eps.uib.es/) and head of studies of the degree in Mathematics at UIB.
 
-If you are a student at UIB and you are interested in persuading your Final Degree Thesis or Master Degree Thesis in any of my research topics or in Real and Functional Analysis, Partial Differential Equations or Calculus of Variations, see my [teaching page](/joandg.github.io/publications/).
+If you are a BsC/MsC/PhD student looking for an internship in any of my research interests, please contact me by email.
+
+If you are a BsC/MsC student at UIB and you are interested in persuading your final degree thesis or your master thesis in any of my research topics or in Functional Analysis, Partial Differential Equations or Calculus of Variations, visit my [teaching page](/teaching/).
