@@ -16,6 +16,9 @@ profile:
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+
+
+# Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. 
 ---
 
 I am a tenure-track associate professor of Applied Mathematics in the Department of Mathematics and Computer Science at the [University of the Balearic Islands (UIB)](http://www.uib.eu/). I am a member of the Mathematical Image Processing research group and of the [Institute of Applied Computing and Community Code (IAC3)](http://iac3.uib.es).
@@ -29,5 +32,3 @@ My main research interests include variational methods, optimization techniques 
 <p>From July 2021, he is deputy director of the Higher Polytechnic School and head of studies of the Degree in Mathematics.</p>
 <p>For more details, you can download his <a href="https://joandurangrimalt.files.wordpress.com/2018/09/cv.pdf" target="_blank">full CV</a>.</p>
 
-
-# Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. 
