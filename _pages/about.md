@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor of Applied Mathematics <br> Department of Mathematics and Computer Science, <a href='http://iac3.uib.cat/'>IAC3</a>, <a href='https://www.uib.eu/'>University of the Balearic Islands</a>
+subtitle: Assistant Professor of Applied Mathematics <br> Department of Mathematics and Computer Science, <a href='https://www.uib.eu/'>University of the Balearic Islands</a>
 
 profile:
   align: right
