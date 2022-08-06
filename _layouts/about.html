@@ -50,6 +50,14 @@ layout: default
             
         </div>
         
+        {% if page.announcement %}
+           <div class="alert alert-info">
+           <center>
+           {{ page.announcement }}
+           </center>
+           </div>
+        {% endif %}
+        
         <div class="clearfix">
             <span style="text-align: justify">
             {{ content }}
