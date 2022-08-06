@@ -12,19 +12,17 @@
         {%- elsif entry.abbr -%}
             {% if entry.type == "article" %}
                 {% if site.data.venues[entry.abbr] %}
-                <abbr class="badge"><a href="{{site.data.venues[entry.abbr].url}}" target="_blank">{{entry.abbr}}</a></abbr>
+                <abbr class="badge"><a href="{{site.data.venues[entry.abbr].url}}">{{entry.abbr}}</a></abbr>
                 {% else %}
-                <abbr class="badge z-depth-1">{{entry.abbr}}</abbr>
+                <abbr class="badge">{{entry.abbr}}</abbr>
                 {% endif %}
             {% elsif entry.type == "inproceedings" %}
               {% if site.data.venues[entry.abbr] %}
-              <abbr class="badge" style="background-color: purple"><a href="{{site.data.venues[entry.abbr].url}}" target="_blank">{{entry.abbr}}</a></abbr>
+              <abbr class="badge" style="background-color: brown"><a href="{{site.data.venues[entry.abbr].url}}">{{entry.abbr}}</a></abbr>
               {% else %}
-              <abbr class="badge" style="background-color: purple">{{entry.abbr}}</abbr>
+              <abbr class="badge" style="background-color: brown">{{entry.abbr}}</abbr>
               {% endif %}
             {% endif %}
-        
-        
 <!--          {%- if site.data.venues[entry.abbr] -%}-->
 <!--          <abbr class="badge"><a href="{{site.data.venues[entry.abbr].url}}">{{entry.abbr}}</a></abbr>-->
 <!--          {%- else -%}-->
@@ -153,6 +151,15 @@
             {{ periodical | strip }}
           </div>
         {%- endif %}
+        
+        <p style="font-size:0.8rem; color: rgb(199, 139, 9)">
+            {% if entry.award %}
+              :sparkles:{{entry.award}}
+            {% endif %}
+            {% if entry.award2 %}
+              <br>:sparkles:{{entry.award2}}
+            {% endif %}
+        </p>
         
           <!-- Links/Buttons -->
           <div class="links">
