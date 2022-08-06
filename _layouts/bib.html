@@ -127,11 +127,7 @@
           {% if entry.type == "article" -%}
             {%- capture entrytype -%}<em>{{entry.journal}},</em>{%- endcapture -%}
           {%- elsif entry.type == "inproceedings" -%}
-            {% if entry.series -%}
-                {%- capture entrytype -%}In <em>{{entry.booktitle}}, </em> {%- endcapture -%}
-            {%- else -%}
-                {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
-            {%- endif -%}
+            {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
           {%- else -%}
           {%- capture entrytype -%}{%- endcapture -%}
           {%- endif -%}
@@ -144,7 +140,7 @@
 <!--          {%- if entry.volume -%}-->
 <!--          {%- capture entryvolume -%}vol. {{entry.volume}}{%- endcapture -%}-->
 <!--          {%- endif -%}-->
-          {%- capture periodical -%}{{ entrytype }}{{ entryvolume }}{{ entryyear }}{%- endcapture -%}
+          {%- capture periodical -%}{{ entrytype }}{{ entryyear }}{%- endcapture -%}
           
           <div class="periodical">
             {{ periodical | strip }}
