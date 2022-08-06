@@ -2,8 +2,8 @@
 layout: page
 permalink: /publications/
 title: publications
-description: publications by categories in reversed chronological order. 
-years: [2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027,2028,2029,2030]
+description: See my <a href="https://scholar.google.com/citations?user=IgKAJBwAAAAJ">Google Scholar profile</a> for more information.
+years: [2022,2021,2020,2019,2018,2017,2016,2015,2014,2013]
 nav: true
 nav_order: 1
 ---
