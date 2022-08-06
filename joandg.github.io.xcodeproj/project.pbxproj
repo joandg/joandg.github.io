@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		1F462353289E73BB005D95C1 /* blog */ = {isa = PBXFileReference; lastKnownFileType = folder; path = blog; sourceTree = "<group>"; };
+		1F462354289E73BB005D95C1 /* _posts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _posts; sourceTree = "<group>"; };
 		1F84830D2897E4440052D40A /* .github */ = {isa = PBXFileReference; lastKnownFileType = folder; path = .github; sourceTree = "<group>"; };
 		1F84830E2897E4440052D40A /* _data */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _data; sourceTree = "<group>"; };
 		1F84830F2897E4440052D40A /* .all-contributorsrc */ = {isa = PBXFileReference; lastKnownFileType = text; path = ".all-contributorsrc"; sourceTree = "<group>"; };
@@ -36,6 +38,8 @@
 		1F2EEE772897B3720061DAF3 = {
 			isa = PBXGroup;
 			children = (
+				1F462354289E73BB005D95C1 /* _posts */,
+				1F462353289E73BB005D95C1 /* blog */,
 				1F8483172897E4440052D40A /* _bibliography */,
 				1F8483242897E4440052D40A /* _config.yml */,
 				1F84830E2897E4440052D40A /* _data */,
