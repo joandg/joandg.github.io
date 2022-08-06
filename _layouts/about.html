@@ -60,9 +60,9 @@ layout: default
         
         {% if page.announcement_title %}
            <div class="alert alert-danger">
-               <h4 class="alert-heading"> page.announcement_title</h4>
+               <h5 class="alert-heading"> page.announcement_title</h5>
                {% if page.announcement %}
-                    <p>{{ page.announcement }}</p>
+                    <p class="alert-heading">{{ page.announcement }}</p>
                {% endif %}
            </div>
         {% endif %}
