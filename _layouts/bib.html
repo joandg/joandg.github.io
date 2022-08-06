@@ -145,7 +145,7 @@
           {%- endif -%}
           {%- capture periodical -%}{{ entrytype }}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
           {%- if entry.series -%}
-            {%- capture entryseries -%}{{" ""}}{{entry.series}}{%- endcapture -%}
+            {%- capture entryseries -%}{{entry.series}}{%- endcapture -%}
           {%- endif -%}
           {%- if entry.volume -%}
             {%- capture entryvolume -%} Vol. {{" ""}}{{entry.volume}}{%- endcapture -%}
