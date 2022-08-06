@@ -143,13 +143,14 @@
           {%- if entry.year -%}
             {%- capture entryyear -%}{{ " " }}{{entry.year}}{%- endcapture -%}
           {%- endif -%}
-          {%- capture periodical -%}{{ entrytype }}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
           {%- if entry.series -%}
             {%- capture entryseries -%}{{entry.series}}{%- endcapture -%}
           {%- endif -%}
           {%- if entry.volume -%}
             {%- capture entryvolume -%} Vol. {{" ""}}{{entry.volume}}{%- endcapture -%}
           {%- endif -%}
+          {%- capture periodical -%}{{ entrytype }}{{ entryyear }}{%- endcapture -%}
+          
           <div class="periodical">
             {{ periodical | strip }}
           </div>
