@@ -149,7 +149,7 @@
           {%- if entry.volume -%}
             {%- capture entryvolume -%}vol. {{entry.volume}}{%- endcapture -%}
           {%- endif -%}
-          {%- capture periodical -%}{{ entrytype }}{{ entryyear }}{{ entryvolume}}{%- endcapture -%}
+          {%- capture periodical -%}{{ entrytype }}{{ entryvolume }}{{ entryyear }}{%- endcapture -%}
           
           <div class="periodical">
             {{ periodical | strip }}
