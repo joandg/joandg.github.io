@@ -59,12 +59,13 @@ layout: default
         
         
         {% if page.announcement_title %}
-               <h2 class="alert-heading"> {{ page.announcement_title }}</h2>
-               {% if page.announcement %}
-                    <p class="alert-heading">{{ page.announcement }}</p>
-               {% endif %}
-           </div>
+            <h2 style="color:red"> {{ page.announcement_title }}</h2>
+            {% if page.announcement %}
+                <p style="color:red">{{ page.announcement }}</p>
+            {% endif %}
+            <br>
         {% endif %}
+
            
         {% if page.news -%}
         <!-- News -->
