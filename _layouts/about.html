@@ -58,13 +58,14 @@ layout: default
         </div>
         
         
-        {% if page.announcement %}
+        {% if page.announcement.title %}
            <div class="alert alert-danger">
-           <center>
-           {{ page.announcement }}
-           </center>
+               <h4 class="alert-heading"> page.announcement.title</h4>
+               {% if page.announcement %}
+                    <p>{{ page.announcement }}</p>
+               {% endif %}
            </div>
-           {% endif %}
+        {% endif %}
            
         {% if page.news -%}
         <!-- News -->
