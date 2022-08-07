@@ -10,20 +10,19 @@ layout: default
         </h1>
         <p class="desc">{{ page.subtitle }}</p>
         {%- if page.social %}
-<!--        <!-- Social -->
-<!--        <div class="social">-->
-<!--            <div class="contact-icons">-->
-<!--                {% include social.html %}-->
-<!--            </div>-->
-<!--            <div class="contact-note">-->
-<!--                {{ site.contact_note }}-->
-<!--            </div>-->
-<!--        </div>-->
-<!--        {%- endif %}-->
+        <!-- Social -->
+        <div class="social">
+            <div class="contact-icons">
+                {% include social.html %}
+            </div>
+            <div class="contact-note">
+                {{ site.contact_note }}
+            </div>
+        </div>
+        {%- endif %}
     </header>
     
     <article>
-        <h2>About me</h2>
         {% if page.profile -%}
         <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
             {%- if page.profile.image %}
