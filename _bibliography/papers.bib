@@ -30,6 +30,58 @@
 %% arxiv = {}, Adds a link to the Arxiv website (Note: only add the arxiv identifier here - the link is generated automatically)
 
 
+@article{DuranBuadesCollSbertBlanchetISPRS2017,
+    selected = {true},
+    author = {Duran, J. and Buades, A. and Coll, B. and Sbert, C. and Blanchet, G.},
+    title = {A Survey of Pansharpening Methods with a New Band-Decoupled Variational Model},
+    journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+    volume = {125},
+    pages = {78--105},
+    year = {2017},
+    doi = {10.1016/j.isprsjprs.2016.12.013},
+    html = {https://dx.doi.org/10.1016/j.isprsjprs.2016.12.013},
+    abbr = {ISPRS},
+    bibtex_show = {true},
+    abstract = {Most satellites decouple the acquisition of a panchromatic image at high spatial resolution from the acquisition of a multispectral image at lower spatial resolution. Pansharpening is a fusion technique used to increase the spatial resolution of the multispectral data while simultaneously preserving its spectral information. In this paper, we consider pansharpening as an optimization problem minimizing a cost function with a nonlocal regularization term. The energy functional which is to be minimized decouples for each band, thus permitting the application to misregistered spectral components. This requirement is achieved by dropping the, commonly used, assumption that relates the spectral and panchromatic modalities by a linear transformation. Instead, a new constraint that preserves the radiometric ratio between the panchromatic and each spectral component is introduced. An exhaustive performance comparison of the proposed fusion method with several classical and state-of-the-art pansharpening techniques illustrates its superiority in preserving spatial details, reducing color distortions, and avoiding the creation of aliasing artifacts.},
+    pdf = {https://www.sciencedirect.com/science/article/pii/S0924271616306657/pdfft?casa_token=iHojHN8ocBgAAAAA:R0vEbRU1LouGvBxTtoSuXCpmGGqrRCwI-zYiOXwgmiqKnH7b9bYoThm_OOhWJxXWlEEAOyZS9hg&md5=d57aeca44d8b00941d37e766ff169098&pid=1-s2.0-S0924271616306657-main.pdf},
+    arxiv = {1606.05703}
+}
+
+@inproceedings{BuadesDuranBMVC2017,
+    selected = {false},
+    author = {Buades A. and Duran, J.},
+    title = {Flow Based Video Super-Resolution with Spatio-temporal Patch Similarity},
+    booktitle = {Proceedings of the British Machine Vision Conference (BMVC)},
+    address = {London, UK},
+    pages = {656.1--656.12},
+    year = {2017},
+    doi = {10.5244/C.31.147},
+    html = {http://www.bmva.org/bmvc/2017/papers/paper147/index.html},
+    abbr = {BMVC},
+    bibtex_swow = {true},
+    abstract = {The goal of super-resolution is to fuse several low-resolution images of the same scene into a single one with increased resolution. The classical formulation assumes that the super-resolved image is related to the low-resolution frames by warping, convolution and subsampling. Algorithms divide into those using explicit registration and those avoiding it. The ﬁrst ones combine for each pixel the information in its estimated trajectory. The second ones exploit both spatial and temporal redundancy. We propose to combine both ideas, making use of optical ﬂow and exploiting spatio-temporal redundancy with patch-based techniques. The proposed non-linear ﬁltering takes into account patch similarities, automatically correcting the ﬂow inaccuracies and avoiding the need of occlusion detection. Total variation and nonlocal regularization are used for the deconvolution stage.},
+    pdf = {http://www.bmva.org/bmvc/2017/papers/paper147/paper147.pdf},
+    poster = {2017-bmvc.pdf}
+}
+
+
+@inproceedings{DuranBuadesVISAPP2017,
+    selected = {false},
+    title = {Nonlocal Regularizing Constraints in Variational Optical Flow},
+    author = {Duran, J. and Buades, A.},
+    booktitle = {Proceedings of the International Conference on Computer Vision, Theory and Applications (VISAPP)},
+    address = {Porto, Portugal},
+    volume = {6},
+    pages = {151--161},
+    year = {2017},
+    doi = {10.5220/0006098501510161},
+    html = {https://www.scitepress.org/Link.aspx?doi=10.5220/0006098501510161},
+    abbr = {VISAPP},
+    bibtex_swow = {true},
+    abstract = {Optical flow methods try to estimate a dense correspondence field describing the motion of the objects in an image sequence. We introduce novel nonlocal regularizing constraints for variational optical flow computation. While the use of similarity weights has been restricted to the regularization term so far, the proposed data terms permit to implicitly use the image geometry in order to regularize the flow and better locate motion discontinuities. The experimental results illustrate the superiority of the new constraints with respect to the classical brightness constancy assumption as well as to nonlocal regularization strategies.},
+    pdf = {https://pdfs.semanticscholar.org/a315/2daa0e0a15c05bc6d495cf1f5848928bf72c.pdf},
+    slides = {2017-visapp.pdf}
+}
 
 @inproceedings{DuranBuadesCollSbertBlanchetICIP2016,
     selected = {false},
@@ -43,8 +95,8 @@
     html = {https://ieeexplore.ieee.org/abstract/document/7533179},
     abbr = {ICIP},
     bibtex_swow = {true},
-    abstract = {Common satellite imagery products consist of a panchromatic image at high spatial resolution and several misregistered spectral bands at lower resolution. Pansharpening is the fusion process by which a high-resolution multispectral image is inferred. We propose a variational model for which pan-sharpening is defined as an optimization problem minimizing a cost function with nonlocal regularization. We incorporate a new term preserving the radiometric ratio between the panchromatic and each spectral band. The resulting model is channel-decoupled, thus permitting the application to misregistered spectral data. The experimental results illustrate the superiority of the proposed method to preserve spatial details, reduce color artifacts, and avoid aliasing..},
-    poster={2016-pansharpening.pdf}
+    abstract = {Common satellite imagery products consist of a panchromatic image at high spatial resolution and several misregistered spectral bands at lower resolution. Pansharpening is the fusion process by which a high-resolution multispectral image is inferred. We propose a variational model for which pan-sharpening is defined as an optimization problem minimizing a cost function with nonlocal regularization. We incorporate a new term preserving the radiometric ratio between the panchromatic and each spectral band. The resulting model is channel-decoupled, thus permitting the application to misregistered spectral data. The experimental results illustrate the superiority of the proposed method to preserve spatial details, reduce color artifacts, and avoid aliasing.},
+    poster = {2016-pansharpening.pdf}
 }
 
 @article{DuranMoellerSbertCremersSIIMS2016,
@@ -82,7 +134,7 @@
     abbr = {EMMCVPR},
     bibtex_swow = {true},
     abstract = {In this paper, we propose a novel framework for restoring color images using nonlocal total variation (NLTV) regularization. We observe that the discrete local and nonlocal gradient of a color image can be viewed as a 3D matrix/or tensor with dimensions corresponding to the spatial extend, the differences to other pixels, and the color channels. Based on this observation we obtain a new class of NLTV methods by penalizing the $\ell^{p,q,r}$ norm of this 3D tensor. Interestingly, this unifies several local color total variation (TV) methods in a single framework. We show in several numerical experiments on image denoising and deblurring that a stronger coupling of different color channels – particularly, a coupling with the $\ell^{\infty}$ norm – yields superior reconstruction results.},
-    slides={2015-emmcvpr.pdf}
+    slides = {2015-emmcvpr.pdf}
 }
     
 @article{CollDuranSbertIPI2015,
