@@ -22,6 +22,17 @@ layout: default
         {%- endif %}
     </header>
     
+    
+    
+    {% if page.announcement_title %}
+    <div style="margin-top:5px;" "margin-bottom:5px;">
+        <h2 style="color:red"> {{ page.announcement_title }}</h2>
+        {% if page.announcement %}
+            <p style="color:red">{{ page.announcement }}</p>
+        {% endif %}
+    </div>
+    {% endif %}
+    
     <article>
         {% if page.profile -%}
         <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
@@ -57,15 +68,6 @@ layout: default
             </span>
         </div>
         
-        
-        {% if page.announcement_title %}
-        <div style="margin-top:5px;" "margin-bottom:5px;">
-            <h2 style="color:red"> {{ page.announcement_title }}</h2>
-            {% if page.announcement %}
-                <p style="color:red">{{ page.announcement }}</p>
-            {% endif %}
-        </div>
-        {% endif %}
 
            
         {% if page.news -%}
