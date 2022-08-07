@@ -1547,8 +1547,8 @@ d-appendix {
   line-height: 1.7em;
   margin-top: 60px;
   margin-bottom: 0;
-  border-top: 1px solid rgba(0, 0, 0, 0.5);
-  color: rgba(0,0,0,0.5);
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  color: rgba(0,0,0,0.7);
   padding-top: 60px;
   padding-bottom: 48px;
 }
@@ -1559,7 +1559,7 @@ d-appendix h3 {
   font-weight: 500;
   margin-top: 1em;
   margin-bottom: 0;
-  color: rgba(0,0,0,0.65);
+  color: rgba(0,0,0,0.85);
 }
 
 d-appendix h3 + * {
@@ -1582,7 +1582,7 @@ d-appendix li {
 }
 
 d-appendix a {
-  color: rgba(0, 0, 0, 0.6);
+  color: rgba(0, 0, 0, 0.85);
 }
 
 d-appendix > * {
