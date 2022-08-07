@@ -30,6 +30,138 @@
 %% arxiv = {}, Adds a link to the Arxiv website (Note: only add the arxiv identifier here - the link is generated automatically)
 
 
+@article{MifdalCollFromentDuranMDPI2021,
+    selected = {false},
+    title = {Variational Fusion of Hyperspectral Data by Non-Local Filtering},
+    author = {Mifdal, J. and Coll, B. and Froment, J. and Duran, J.},
+    journal ={Mathematics},
+    volume = {9},
+    number = {11},
+    pages = {1265},
+    year = {2021},
+    doi = {10.3390/math9111265},
+    html = {https://www.mdpi.com/2227-7390/9/11/1265},
+    abbr = {Mathematics},
+    bibtex_show = {true},
+    abstract = {The fusion of multisensor data has attracted a lot of attention in computer vision, particularly among the remote sensing community. Hyperspectral image fusion consists in merging the spectral information of a hyperspectral image with the geometry of a multispectral one in order to infer an image with high spatial and spectral resolutions. In this paper, we propose a variational fusion model with a nonlocal regularization term that encodes patch-based filtering conditioned to the geometry of the multispectral data. We further incorporate a radiometric constraint that injects the high frequencies of the scene into the fused product with a band per band modulation according to the energy levels of the multispectral and hyperspectral images. The proposed approach proved robust to noise and aliasing. The experimental results demonstrate the performance of our method with respect to the state-of-the-art techniques on data acquired by commercial hyperspectral cameras and Earth observation satellites.},
+    pdf = {https://www.mdpi.com/2227-7390/9/11/1265/pdf?version=1624439568}
+}
+
+@article{DuranNavarroBuadesSIIMS2021,
+    selected = {true},
+    title = {Variational Densification and Refinement of Registration Maps},
+    author = {Duran, J. and Navarro, J. and Buades, A.},
+    journal = {SIAM Journal on Imaging Sciences},
+    volume = {14},
+    number = {3},
+    pages = {879--912},
+    year = {2021},
+    doi = {10.1137/20M1379113},
+    html = {https://epubs.siam.org/doi/abs/10.1137/20M1379113},
+    abbr = {SIIMS},
+    bibtex_show = {true},
+    abstract = {Local patch-based algorithms for image registration fail to accurately match points in areas not discriminative enough, mainly textureless regions. These methods normally involve a validation process and provide a non-completely dense solution. In this paper, we propose a novel refinement and completion approach for registration. The proposed model combines single image nonlocal densification with classical variational image registration. We associate a total variation regularization with a nonlocal term to provide a smooth solution leveraging the image geometry. We show experiments on public stereo and optical flow datasets to filter and densify incomplete depth maps and motion fields. Extensive comparisons against existing and state-of-the-art depth/motion fields densification approaches demonstrate the competitive performance of the introduced method. Additionally, we illustrate how our method can deal with other tasks, such as filtering and interpolation of depth maps from RGBD data and depth upsampling.}
+}
+
+@article{BuadesDuranTCSVT2019,
+    selected = {true},
+    title = {CFA Video Denoising and Demosaicking Chain via Spatio-Temporal Patch-Based Filtering},
+    author = {Buades, A. and Duran, J.},
+    journal = {IEEE Transactions on Circuits and Systems for Video Technology},
+    volume = {30},
+    number = {11},
+    pages = {4143--4157},
+    year = {2019},
+    doi = {10.1109/TCSVT.2019.2956691},
+    html = {https://ieeexplore.ieee.org/abstract/document/8917679},
+    abbr = {TCSVT},
+    bibtex_show = {true},
+    abstract = {Demosaicking and denoising are key steps in the camera imaging chain for both images and videos. The reconstruction errors during these stages will have undesirable effects on the final result if not handled properly. Demosaicking provokes the spatial and color correlation of noise, which is afterwards enhanced by the processing pipeline. This structured noise generally degrades the image quality and, for dark scenes with low signal to noise ratio, prevents the correct interpretation of the image. When trying to mitigate such structured noise on already processed data, denoising methods attenuate details and texture. We present a video processing chain, consisting of a novel strategy for the removal of noise at the camera sensor and a novel video demosaicking algorithm. In both cases, a spatio-temporal patch-based filter with motion compensation is introduced. The experimental results, including real examples, illustrate the performance of the proposed chain, avoiding the creation of interpolation artefacts and colored spots.},
+    arxiv = {1812.11207}
+}
+
+@article{BuadesDuranNavarroIJCV2019,
+    selected = {true},
+    title = {Motion-Compensated Spatio-Temporal Filtering for Multi-Image and Multimodal Super-Resolution},
+    author = {Buades, A. and Duran, J. and Navarro, J.},
+    journal = {International Journal of Computer Vision},
+    volume = {127},
+    number = {10},
+    pages = {1474--1500},
+    year = {2019},
+    doi = {10.1007/s11263-019-01200-5},
+    html = {https://link.springer.com/article/10.1007/s11263-019-01200-5},
+    abbr = {IJCV},
+    bibtex_show = {true},
+    abstract = {The classical multi-image super-resolution model assumes that the super-resolved image is related to the low-resolution frames by warping, convolution and downsampling. State-of-the-art algorithms either use explicit registration to fuse the information for each pixel in its trajectory or exploit spatial and temporal similarities. We propose to combine both ideas, making use of inter-frame motion and exploiting spatio-temporal redundancy with patch-based techniques. We introduce a non-linear filtering approach that combines patches from several frames not necessarily belonging to the same pixel trajectory. The selection of candidate patches depends on a motion-compensated 3D distance, which is robust to noise and aliasing. The selected 3D volumes are then sliced per frame, providing a collection of 2D patches which are finally averaged depending on their similarity to the reference one. This makes the upsampling strategy robust to flow inaccuracies and occlusions. Total variation and nonlocal regularization are used in the deconvolution stage. The experimental results demonstrate the state-of-the-art performance of the proposed method for the super-resolution of videos and light-field images. We also adapt our approach to multimodal sequences when some additional data at the desired resolution is available.},
+    pdf = {https://link.springer.com/content/pdf/10.1007/s11263-019-01200-5.pdf}
+}
+
+@article{DuranBuadesLGRS2018,
+    selected = {false},
+    author = {Duran, J. and Buades, A.},
+    title = {Restoration of Pansharpened Images by Conditional Filtering in the PCA Domain},
+    journal = {IEEE Geoscience and Remote Sensing Letters},
+    volume = {16},
+    number = {3},
+    pages = {442--446},
+    year = {2018},
+    doi = {10.1109/LGRS.2018.2873654},
+    html = {https://ieeexplore.ieee.org/abstract/document/8527530},
+    abbr = {LGRS},
+    bibtex_show = {true},
+    abstract = {Pansharpening techniques aim at fusing a low-spatial resolution multispectral (MS) image with a higher spatial resolution panchromatic (PAN) image to produce an MS image at high spatial resolution. Despite significant progress in the field, spectral and spatial distortions might still compromise the quality of the results. We introduce a restoration strategy to mitigate artifacts of fused products. After applying the principal component analysis transform to a pansharpened image, the chromatic components are filtered conditionally to the geometry of PAN. The structural component is then replaced by the locally histogram-matched PAN for spatial enhancement. Experimental results illustrate the efficiency of the proposed restoration chain.},
+    arxiv = {1710.00672}
+}
+
+@inproceedings{NavarroDuranBuadesICIP2018,
+    selected = {false},
+    title = {Filtering and Interpolation of Inaccurate and Incomplete Depth Maps},
+    author = {Navarro, J. and Duran, J. and Buades, A.},
+    booktitle = {Proceedings of the IEEE International Conference on Image Processing (ICIP)},
+    address = {Athens, Greece},
+    pages = {1533--1537},
+    year = {2018},
+    doi = {10.1109/ICIP.2018.8451854},
+    html = {https://ieeexplore.ieee.org/abstract/document/8451854},
+    abbr = {ICIP},
+    bibtex_show = {true},
+    abstract = {Local algorithms for stereo fail to match accurately points in areas not discriminative enough, mainly texture-less regions. We propose a method for filtering incorrect depth estimates and filling in those areas which have not been matched. The proposed model combines total variation regularization with a non local term taking advantage of image self similarity. The method can be easily generalized to deal with other tasks, as for example stereo upsampling. The method is compared with state-of-the-art stereo methods, showing competitive results on the Middlebury stereo database.},
+    poster = {2018-flowfilt.pdf}
+}
+
+@inproceedings{BuadesDuranICIP2018,
+    selected = {false},
+    title = {Joint Denoising and Demosaicking of Raw Video Sequences},
+    author = {Buades, A. and Duran, J.},
+    booktitle = {Proceedings of the IEEE International Conference on Image Processing (ICIP)},
+    address = {Athens, Greece},
+    pages = {2172--2176},
+    year={2018},
+    doi = {10.1109/ICIP.2018.8451853},
+    html = {https://ieeexplore.ieee.org/abstract/document/8451853},
+    abbr = {ICIP},
+    bibtex_show = {true},
+    abstract = {The demosaicking provokes the spatial and color correlation of noise, which is afterwards enhanced by the imaging pipeline. The correct removal previous or simultaneously with the demosaicking process is not usually considered in the literature. We present a novel joint demosaicking and denoising algorithm for image sequences. The proposed algorithm uses a spatio-temporal patch method modifying all pixels, including those of the Bayer CFA. However, only original values are considered for averaging. The experimentation, including real examples, illustrates how a joint denoising and demosaicking algorithm avoids the creation of artifacts and colored spots in the final image.},
+    poster = {2018-raw.pdf}
+}
+
+@inproceedings{MifdalCollDuranICIP2018,
+    selected = {false},
+    title = {A Variational Formulation for Hyperspectral and Multispectral Image Fusion},
+    author = {Mifdal, J. and Coll, B. and Duran, J.},
+    booktitle = {Proceedings of the IEEE International Conference on Image Processing (ICIP)},
+    address = {Athens, Greece},
+    pages = {3328--3332},
+    year = {2018},
+    doi = {10.1109/ICIP.2018.8451609},
+    html = {https://ieeexplore.ieee.org/abstract/document/8451609},
+    abbr = {ICIP},
+    bibtex_show = {true},
+    abstract = {We propose a new convex variational model for hyperspectral and multispectral image fusion. Our approach introduces nonlocal regularization conditioned to the geometry of the multispectral image and incorporates a constraint forcing the fusion product and the multispectral data to share modulated high frequencies. The proposed method is compared with state-of-the-art fusion techniques, showing competitive results for several quality metrics on different data.},
+    poster = {2018-hyperspectral.pdf}
+}
+
 @article{DuranBuadesCollSbertBlanchetISPRS2017,
     selected = {true},
     author = {Duran, J. and Buades, A. and Coll, B. and Sbert, C. and Blanchet, G.},
@@ -44,8 +176,7 @@
     bibtex_show = {true},
     abstract = {Most satellites decouple the acquisition of a panchromatic image at high spatial resolution from the acquisition of a multispectral image at lower spatial resolution. Pansharpening is a fusion technique used to increase the spatial resolution of the multispectral data while simultaneously preserving its spectral information. In this paper, we consider pansharpening as an optimization problem minimizing a cost function with a nonlocal regularization term. The energy functional which is to be minimized decouples for each band, thus permitting the application to misregistered spectral components. This requirement is achieved by dropping the, commonly used, assumption that relates the spectral and panchromatic modalities by a linear transformation. Instead, a new constraint that preserves the radiometric ratio between the panchromatic and each spectral component is introduced. An exhaustive performance comparison of the proposed fusion method with several classical and state-of-the-art pansharpening techniques illustrates its superiority in preserving spatial details, reducing color distortions, and avoiding the creation of aliasing artifacts.},
     pdf = {https://www.sciencedirect.com/science/article/pii/S0924271616306657/pdfft?casa_token=iHojHN8ocBgAAAAA:R0vEbRU1LouGvBxTtoSuXCpmGGqrRCwI-zYiOXwgmiqKnH7b9bYoThm_OOhWJxXWlEEAOyZS9hg&md5=d57aeca44d8b00941d37e766ff169098&pid=1-s2.0-S0924271616306657-main.pdf},
-    arxiv = {1606.05703},
-    slides = {2015-iciam.pdf}
+    arxiv = {1606.05703}
 }
 
 @inproceedings{BuadesDuranBMVC2017,
