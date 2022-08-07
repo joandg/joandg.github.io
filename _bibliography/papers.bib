@@ -20,10 +20,48 @@
 %% Bdsk-Url-1 = {http://link.aps.org/doi/10.1103/PhysRev.47.777},
 %% Bdsk-Url-2 = {https://doi.org/10.1103/PhysRev.47.777},
 %% selected = {true},
-%% pdf = {example_pdf.pdf},
+%% pdf = {}, Adds a "PDF" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/papers directory)
+%% supp = {},  Adds a "Supp" button to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/supp directory)
 %% award = {},
 %% award2 = {},
+%% poster = {}, Adds a "Poster" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/posters directory)
+%% slides = {}, Adds a "Slides" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/slides directory)
+%% website = {}, Adds a "Website" button redirecting to the specified link
+%% arxiv = {}, Adds a link to the Arxiv website (Note: only add the arxiv identifier here - the link is generated automatically)
 
+@inproceedings{CollDuranSbertICIP2014,
+    selected = {false},
+    author = {Coll, B. and Duran, J. and Sbert, C.},
+    title = {An Algorithm for Nonconvex Functional Minimization and Applications to Image Restoration},
+    booktitle = {Proceedings of the IEEE International Conference on Image Processing (ICIP)},
+    address = {Paris, France},
+    pages = {4547--4551},
+    year = {2014},
+    doi = {10.1109/ICIP.2014.7025922},
+    html = {https://ieeexplore.ieee.org/abstract/document/7025922},
+    abbr = {ICIP},
+    bibtex_swow = {true},
+    abstract = {In this paper, we propose a new dual algorithm for the minimization of discrete nonconvex functionals, called half-linear regularization. Our approach alternates the calculation of a explicit weight with the minimization of a convex functional with respect to the solution. This minimization corresponds to the weighted total variation which is solved via the well-known Chambolle's algorithm. Finally, we present experimental results by applying it to some image restoration problems as denoising and deconvolution.},
+    poster={2014-halflinear.pdf}
+}
+    
+@article{DuranBuadesTIP2014,
+    selected = {true},
+    author = {Duran, J. and Buades, A.},
+    title = {Self-Similarity and Spectral Correlation Adaptive Algorithm for Color Demosaicking},
+    journal = {IEEE Transactions on Image Processing},
+    volume = {23},
+    number = {9},
+    pages = {4031--4040},
+    year = {2014}}
+    doi = {10.1109/TIP.2014.2341928},
+    html = {https://ieeexplore.ieee.org/abstract/document/6862910/},
+    abbr = {TIP},
+    bibtex_show = {true},
+    abstract = {Most common cameras use a CCD sensor device measuring a single color per pixel. The other two color values of each pixel must be interpolated from the neighboring pixels in the so-called demosaicking process. State-of-the-art demosaicking algorithms take advantage of interchannel correlation locally selecting the best interpolation direction. These methods give impressive results except when local geometry cannot be inferred from neighboring pixels or channel correlation is low. In these cases, they create interpolation artifacts. We introduce a new algorithm involving nonlocal image self-similarity in order to reduce interpolation artifacts when local geometry is ambiguous. The proposed algorithm introduces a clear and intuitive manner of balancing how much channel-correlation must be taken advantage of. Comparison shows that the proposed algorithm gives state-of-the-art methods in several image bases.},
+    code = {http://www.ipol.im/pub/art/2015/145/DB_demosaicking_code.tar.gz},
+    demo = {https://demo.ipol.im/demo/145/}
+}
 
 @article{DuranBuadesCollSbertSIIMS2014,
     selected = {true},
@@ -77,26 +115,6 @@
 
 
 
-@article{DuranBuadesIPOL2015,
-	author = {Duran, J. and Buades, A.},
-	date-added = {2022-08-03 20:07:22 +0200},
-	date-modified = {2022-08-03 20:07:22 +0200},
-	journal = {\emph{Accepted at} Image Process. On Line},
-	title = {A Demosaicking Algorithm with Adaptive Inter-Channel Correlation},
-	year = {2015}}
-
-@article{DuranBuadesTIP2014,
-	author = {Duran, J. and Buades, A.},
-	date-added = {2022-08-03 20:07:22 +0200},
-	date-modified = {2022-08-03 20:07:22 +0200},
-	journal = {IEEE Trans. Image Process.},
-	note = {\url{http://dx.doi.org/10.1109/TIP.2014.2341928}},
-	number = {9},
-	pages = {4031--4040},
-	title = {Self-Similarity and Spectral Correlation Adaptive Algorithm for Color Demosaicking},
-	volume = {23},
-	year = {2014}}
-
 
 
 @article{DuranMoellerSbertCremersIPOL2015,
@@ -129,17 +147,7 @@
 	title = {Collaborative Total Variation: {A} General Framework for Vectorial {TV} Models},
 	year = {in press, 2015}}
 
-@inproceedings{CollDuranSbertICIP2014,
-	address = {Paris, France},
-	author = {Coll, B. and Duran, J. and Sbert, C.},
-	booktitle = {Proc. IEEE Int. Conf. Image Processing (ICIP)},
-	date-added = {2022-08-03 20:07:03 +0200},
-	date-modified = {2022-08-03 20:07:03 +0200},
-	note = {\url{http://dx.doi.org/10.1109/ICIP.2014.7025922}},
-	pages = {4547--4551},
-	title = {An Algorithm for Nonconvex Functional Minimization and Applications to Image Restoration},
-	year = {2014},
-    abbr = {ICIP}}
+
 
 @article{CollDuranSbertIPI2015,
 	author = {Coll, B. and Duran, J. and Sbert, C.},
