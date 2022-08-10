@@ -13,4 +13,4 @@ Organize your courses by years, topics, or universities, however you like!
 
 All materials can be downloaded from UIB Digital. You are required to be a student at the Universitat de les Illes Balears (UIB) and be enrolled in the corresponding course to have access to all data.
 
-<h2> Degree in mathematics </h2>
+<div class="h2"> Degree in mathematics </div>
