@@ -30,14 +30,12 @@
 		1F8483232897E4440052D40A /* _layouts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _layouts; sourceTree = "<group>"; };
 		1F8483242897E4440052D40A /* _config.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = _config.yml; sourceTree = "<group>"; };
 		1F8483252897E4440052D40A /* assets */ = {isa = PBXFileReference; lastKnownFileType = folder; path = assets; sourceTree = "<group>"; };
-		1F8F9F4B28A961040016B93D /* teaching */ = {isa = PBXFileReference; lastKnownFileType = folder; path = teaching; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		1F2EEE772897B3720061DAF3 = {
 			isa = PBXGroup;
 			children = (
-				1F8F9F4B28A961040016B93D /* teaching */,
 				1F8483172897E4440052D40A /* _bibliography */,
 				1F8483242897E4440052D40A /* _config.yml */,
 				1F84830E2897E4440052D40A /* _data */,
