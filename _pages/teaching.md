@@ -13,18 +13,33 @@ All materials can be downloaded from <em>Aula Digital</em>. You are required to 
 <h2 class="category">B.Sc. in Mathematics</h2>
 </div>
 
-* 2022 - present: [Advanced Mathematical Analysis](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20585/index.html) (Functional Analysis), 4th course
+* 2022 - present: [20585 - Advanced Mathematical Analysis](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20585/index.html) (Functional Analysis), 4th course
 
-* 2021 - present: [Fundamentals of Mathematics](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20572/index.html), 1st Course 
+* 2021 - present: 20572 [Fundamentals of Mathematics](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20572/index.html), 1st Course 
 
-* 2019 - present: [Partial Differential Equations](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20327/index.html), 3rd course
+* 2019 - present: 20327[Partial Differential Equations](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20327/index.html), 3rd course
 
-* 2018 - 2022: [Mathematical Analysis II](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20574/index.html), 1st course
+* 2018 - 2022: 20574 [Mathematical Analysis II](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20574/index.html), 1st course
 
-* 2020 - 2021: [Affine and Metric Geometry](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20318/index.html), 2nd course
+* 2020 - 2021: 20318[Affine and Metric Geometry](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20318/index.html), 2nd course
 
-* 2018 - 2019: [Advanced Models: Mathematical Information Modelling](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/assignatures.html), 4t course
+* 2018 - 2019: 20589 [Advanced Models: Mathematical Information Modelling](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/assignatures.html), 4t course
+
+<div class="projects">
+<h2 class="category">B.Sc. in Chemistry</h2>
+</div>
+
+* 2017 - 2021: 21457 [Mathematics I - Calculus](https://www.uib.eu/Learn/estudis-de-grau/grau/quimica/GQUI-P/21457/index.html), 1st course
+
 
 <div class="projects">
 <h2 class="category">B.Sc. in Computer Science</h2>
 </div>
+
+* 2013 - 2020: 20301 [Mathematics II - Calculus](https://www.uib.eu/Learn/estudis-de-grau/grau/informatica/GIN3-P/20301/index.html), 1st course
+
+<div class="projects">
+<h2 class="category">B.Sc. in Biochemistry</h2>
+</div>
+
+* 2018 - 2019: 21545 [Mathematics I - Calculus](https://www.uib.eu/Learn/estudis-de-grau/grau/bioquimica/GBIQ-P/21545/index.html), 1st course
