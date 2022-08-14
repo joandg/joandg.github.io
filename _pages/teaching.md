@@ -13,4 +13,18 @@ All materials can be downloaded from <em>Aula Digital</em>. You are required to 
 <h2 class="category">B.Sc. in Mathematics</h2>
 </div>
 
-* 2018 - 2022: [Mathematical Analysis II](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20574/index.html)
+* 2022 - present: [Advanced Mathematical Analysis](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20585/index.html) (Functional Analysis), 4th course
+
+* 2021 - present: [Fundamentals of Mathematics](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20572/index.html), 1st Course 
+
+* 2019 - present: [Partial Differential Equations](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20327/index.html), 3rd course
+
+* 2018 - 2022: [Mathematical Analysis II](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20574/index.html), 1st course
+
+* 2020 - 2021: [Affine and Metric Geometry](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20318/index.html), 2nd course
+
+* 2018 - 2019: [Advanced Models: Mathematical Information Modelling](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/assignatures.html), 4t course
+
+<div class="projects">
+<h2 class="category">B.Sc. in Computer Science</h2>
+</div>
