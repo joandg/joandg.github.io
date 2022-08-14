@@ -2,57 +2,14 @@
 layout: page
 title: Teaching
 permalink: /Teaching/
-description: Teaching materials.
+description: Teaching activities
 nav: true
 nav_order: 4
-display_categories: ["B.Sc. in Mathematics", "B.Sc. in Chemistry", "B.Sc. in Computer Science"]
-horizontal: false
 ---
-<div class="projects">
-  {% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-    {% for category in page.display_categories %}
-      <h2 class="category">{{ category }}</h2>
-      {% assign categorized_teaching = site.teaching | where: "category", category %}
-      {% assign sorted_teaching = categorized_teaching | sort: "importance" %}
-      <!-- Generate cards for each project -->
-      {% if page.horizontal %}
-        <div class="container">
-          <div class="row row-cols-2">
-          {% for teaching in sorted_teaching %}
-            {% include teaching_horizontal.html %}
-          {% endfor %}
-          </div>
-        </div>
-      {% else %}
-        <div class="grid">
-          {% for project in sorted_teaching %}
-            {% include teaching.html %}
-          {% endfor %}
-        </div>
-      {% endif %}
-    {% endfor %}
 
-  {% else %}
-  <!-- Display teaching without categories -->
-    {% assign sorted_teaching = site.teaching | sort: "importance" %}
-    <!-- Generate cards for each teaching -->
-    {% if page.horizontal %}
-      <div class="container">
-        <div class="row row-cols-2">
-        {% for project in sorted_teaching %}
-          {% include teaching_horizontal.html %}
-        {% endfor %}
-        </div>
-      </div>
-    {% else %}
-      <div class="grid">
-        {% for project in sorted_teaching %}
-          {% include teaching.html %}
-        {% endfor %}
-      </div>
-    {% endif %}
+* 2019-2020: Professor responsible of classroom [Large scale data management](http://miei.di.uminho.pt/plano_estudos.html#cd_gestao_de_grandes_conjuntos_de_dados), Universidade do Minho
+* 2015-2016: Professor of Distributed Computing in the [MAP-i](https://mapi.map.edu.pt/) Doctoral Programme in University of Aveiro
+* 2010-2011: Professor responsible of classroom Operating Systems and Distributed systems in CET de Redes at Instituto Politécnico do Cávado e do Ave (IPCA).
+* 2009-2010: Professor of classroom practice of EISD, Distributed Systems, Universidade do Minho
+* 2008-2009: Professor of classroom practice of EISD, Distributed Systems, Universidade do Minho 
 
-  {% endif %}
-
-</div>
