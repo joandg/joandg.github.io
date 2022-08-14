@@ -30,6 +30,6 @@ My main research interests include functional analysis, variational methods, con
 
 I have had a long-term collaboration with the french spatial agency [CNES](http://cnes.fr/en) by contributing to the image restoration chain of the Earth observation satellite [Pleiades](http://pleiades.cnes.fr/en/PLEIADES/index.htm). Together with TAMI colleagues, [Dr. Jamila Mifdal](http://jamilamifdal.com/) from the [$$\Phi$$-Lab](http://philab.phi.esa.int/) at the [European Spatial Agency (ESA)](http://www.esa.int), and members of the research team led by  [Prof. Salud Deudero](http://www.ba.ieo.es/es/personal/12-contacts/15-salud-deudero-company) from the [Oceanographic Centre of the Balearic Islands](http://www.ba.ieo.es), I am currently working on deep unfolding networks for the fusion of remote sensing data and the automatic detection of floating objects in the Mediterranean Sea.
 
-If you are a BsC/MsC student at UIB interested in pursuing your degree/master thesis in any of my fields of research or in Functional Analysis, Partial Differential Equations or Calculus of Variations, visit my [teaching page](/teaching/).
+If you are a BsC/MsC student at UIB interested in pursuing your degree/master thesis in any of my fields of research or in Functional Analysis, Partial Differential Equations or Calculus of Variations, visit XXXXX
 
 If you are a BsC/MsC/PhD student looking for a research internship, contact me by email.
