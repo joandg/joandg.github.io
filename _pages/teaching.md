@@ -26,7 +26,7 @@ All materials can be downloaded from <em>Aula Digital</em>. You are required to 
 * 2018 - 2019: [Advanced Models: Mathematical Information Modelling](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/assignatures.html), 4t course
 
 <div class="projects">
-<h2 class="category">B.Sc. in Chemistry</h2>
+<h4 class="category"> <style color: var(--global-text-color)>B.Sc. in Chemistry</style></h4>
 </div>
 
 * 2017 - 2021: [Mathematics I - Calculus](https://www.uib.eu/Learn/estudis-de-grau/grau/quimica/GQUI-P/21457/index.html), 1st course
