@@ -10,7 +10,7 @@ nav_order: 4
 All materials can be downloaded from <em>Aula Digital</em>. You are required to be a student at [UIB](https://uib.eu) and be enrolled in the corresponding course to have access to all data.
 
 <div class="publications">
-<h4 class="category">B.Sc. in Mathematics</h4>
+<h2 class="category">B.Sc. in Mathematics</h2>
 </div>
 
 * 2022 - present: [Advanced Mathematical Analysis](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20585/index.html) (Functional Analysis), 4th course
