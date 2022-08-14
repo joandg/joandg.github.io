@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 permalink: /Teaching/
-description: Teaching activities
+# description:
 nav: true
 nav_order: 4
 ---
@@ -15,7 +15,7 @@ All materials can be downloaded from <em>Aula Digital</em>. You are required to 
 
 * 2022 - present: [20585 - Advanced Mathematical Analysis](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20585/index.html) (Functional Analysis), 4th course
 
-* 2021 - present: 20572 [Fundamentals of Mathematics](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20572/index.html), 1st Course 
+* 2021 - present: [Fundamentals of Mathematics](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20572/index.html) (20572),  1st Course 
 
 * 2019 - present: 20327[Partial Differential Equations](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20327/index.html), 3rd course
 
@@ -42,4 +42,12 @@ All materials can be downloaded from <em>Aula Digital</em>. You are required to 
 <h2 class="category">B.Sc. in Biochemistry</h2>
 </div>
 
-* 2018 - 2019: 21545 [Mathematics I - Calculus](https://www.uib.eu/Learn/estudis-de-grau/grau/bioquimica/GBIQ-P/21545/index.html), 1st course
+* 2018 - 2019: 21545 [Mathematics I](https://www.uib.eu/Learn/estudis-de-grau/grau/bioquimica/GBIQ-P/21545/index.html), 1st course
+
+<div class="projects">
+<h2 class="category">M.Sc. in Advanced Physics and Applied Mathematics</h2>
+</div>
+
+* 2016 - 2022: [Introduction to Mathematical Models in Image Restoration](https://www.uib.eu/Learn/estudis-de-master/master/MFMA/11301/index.html)
+
+* 2017 - 2020: [Introduction to Subpixel Images](https://www.uib.eu/Learn/estudis-de-master/master/MFMA/11303/index.html)
