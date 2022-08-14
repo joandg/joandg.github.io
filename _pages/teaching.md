@@ -1,14 +1,13 @@
 ---
 layout: page
-permalink: /Teaching/
 title: Teaching
+permalink: /Teaching/
 description: Teaching materials.
 nav: true
+nav_order: 4
 display_categories: ["B.Sc. in Mathematics", "B.Sc. in Chemistry", "B.Sc. in Computer Science"]
 horizontal: false
 ---
-All materials can be downloaded from UIB Digital. You are required to be a student at the Universitat de les Illes Balears (UIB) and be enrolled in the corresponding course to have access to all data.
-
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
