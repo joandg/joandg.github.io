@@ -40,7 +40,7 @@ nav_order: 4
     <td class="tg-2"><i>Deep variational learning for multi-image super-resolution</i></td>
   </tr>
   <tr>
-    <td class="tg-2">University of the Balearic Islands</td>
+    <td class="tg-2"><a href="http://uib.eu>University of the Balearic Islands</a></td>
   </tr>
   <tr>
     <td class="tg-2">Co-advised with Dr. Julia Navarro</td>
@@ -59,6 +59,32 @@ nav_order: 4
   </tr>
   <tr>
     <td class="tg-2">Visiting BSc student from the <a href="https://www.upc.edu/en?set_language=en">Polytechnic University of Catalonia</a <a></td>
+  </tr>
+  <tr>
+    <td class="tg-12" rowspan="3">05/2019 - 07/2019</td>
+    <td class="tg-22">Antoine Reynaert</td>
+  </tr>
+  <tr>
+    <td class="tg-2"><i>Optical flow methods</i></td>
+  </tr>
+  <tr>
+    <td class="tg-2">Visiting MSc student from the <a href="https://www.grenoble-inp.fr/en">Grenoble Institute of Technology</a></td>
+  </tr>
+</table>
+
+
+<h5 class="category">Undergraduate students</h5>
+
+<table class="tg">
+  <tr>
+    <td class="tg-1" rowspan="3"> 09/2022 - 07/2023</td>
+    <td class="tg-2">Marc Tomás</td>
+  </tr>
+  <tr>
+    <td class="tg-2"><i>Deep unfolding networks for satellite image fusion</i></td>
+  </tr>
+  <tr>
+    <td class="tg-2">Student of the double B.Sc. in Mathematics and Telematics Engineering at <a href="https://www.upc.edu/en?set_language=en">Polytechnic University of Catalonia</a <a></td>
   </tr>
   <tr>
     <td class="tg-12" rowspan="3">05/2019 - 07/2019</td>
