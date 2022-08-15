@@ -14,16 +14,11 @@ This is a list of all courses I have teached at the [University of the Balearic 
 </div>
 
 * 2022 - present $$\mid$$ [Advanced Mathematical Analysis](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20585/index.html)
-
-* 2021 - present | [Fundamentals of Mathematics](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20572/index.html)
-
-* 2019 - present | [Partial Differential Equations](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20327/index.html)
-
-* 2018 - 2022 | [Mathematical Analysis II](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20574/index.html)
-
-* 2020 - 2021 | [Affine and Metric Geometry](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20318/index.html)
-
-* 2018 - 2019 | [Advanced Models: Mathematical Information Modelling](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/assignatures.html)
+* 2021 - present $$\mid$$ [Fundamentals of Mathematics](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20572/index.html)
+* 2019 - present $$\mid$$ [Partial Differential Equations](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20327/index.html)
+* 2018 - 2022 $$\mid$$ [Mathematical Analysis II](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20574/index.html)
+* 2020 - 2021 $$\mid$$ [Affine and Metric Geometry](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20318/index.html)
+* 2018 - 2019 $$\mid$$ [Advanced Models: Mathematical Information Modelling](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/assignatures.html)
 
 <div class="projects">
 <h5 class="category">B.Sc. in Chemistry</h5>
