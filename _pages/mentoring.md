@@ -70,9 +70,3 @@ nav_order: 4
        </tr>
    </table>
 </div>
-
-<div class="projects">
-<h5 class="category">B.Sc. in Chemistry</h5>
-</div>
-
-* 2017 - 2021 $$\mid$$ [Mathematics I](https://www.uib.eu/Learn/estudis-de-grau/grau/quimica/GQUI-P/21457/index.html)
