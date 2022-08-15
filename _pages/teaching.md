@@ -9,8 +9,8 @@ nav_order: 4
 
 This is a list of all courses I have teached at the [University of the Balearic Islands](https://uib.eu) (UIB) since 2013. All materials can be downloaded from <em>Aula Digital</em>. You are required to be a student at UIB and be enrolled in the corresponding course to have access to all data.
 
-<div class="publications">
-<h5 class="year">B.Sc. in Mathematics</h5>
+<div class="projects">
+<h5 class="category">B.Sc. in Mathematics</h5>
 </div>
 
 * 2022 - present: [Advanced Mathematical Analysis](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20585/index.html) (Functional Analysis)
@@ -25,27 +25,27 @@ This is a list of all courses I have teached at the [University of the Balearic 
 
 * 2018 - 2019: [Advanced Models: Mathematical Information Modelling](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/assignatures.html)
 
-<div class="publications">
-<h5 class="year">B.Sc. in Chemistry</h5>
+<div class="projects">
+<h5 class="category">B.Sc. in Chemistry</h5>
 </div>
 
 * 2017 - 2021: [Mathematics I - Calculus](https://www.uib.eu/Learn/estudis-de-grau/grau/quimica/GQUI-P/21457/index.html)
 
 
-<div class="publications">
-<h5 class="year">B.Sc. in Computer Science</h5>
+<div class="projects">
+<h5 class="category">B.Sc. in Computer Science</h5>
 </div>
 
 * 2013 - 2020: [Mathematics II - Calculus](https://www.uib.eu/Learn/estudis-de-grau/grau/informatica/GIN3-P/20301/index.html)
 
-<div class="publications">
-<h5 class="year">B.Sc. in Biochemistry</h5>
+<div class="projects">
+<h5 class="category">B.Sc. in Biochemistry</h5>
 </div>
 
 * 2018 - 2019: [Mathematics I](https://www.uib.eu/Learn/estudis-de-grau/grau/bioquimica/GBIQ-P/21545/index.html)
 
-<div class="publications">
-<h5 class="year">M.Sc. in Advanced Physics and Applied Mathematics</h5>
+<div class="projects">
+<h5 class="category">M.Sc. in Advanced Physics and Applied Mathematics</h5>
 </div>
 
 * 2016 - 2022: [Introduction to Mathematical Models in Image Restoration](https://www.uib.eu/Learn/estudis-de-master/master/MFMA/11301/index.html)
