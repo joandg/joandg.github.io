@@ -44,8 +44,8 @@ nav_order: 4
   <tr>
     <td class="tg-2">Co-advised with Dr. Julia Navarro</td>
   </tr>
-  <tr>
-    <td class="tg-3">2021 - 2022</td>
+  <tr class="tg-3">
+    <td class="tg-1">2021 - 2022</td>
     <td class="tg-2">Test</td>
   </tr>
 </table>
