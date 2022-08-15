@@ -24,49 +24,27 @@ nav_order: 4
 <h5 class="category">PhD students</h5>
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-style:solid;border-width:0px;overflow:hidden;padding:2px 5px;
+.tg  {border-collapse:collapse; border-spacing:2;}
+.tg td{border-style:solid; border-color:black; border-width:1px; overflow:hidden; padding:2px 5px;
   word-break:normal;}
 .tg th{border-style:solid;border-width:0px;
   overflow:hidden;padding:2px 5px;word-break:normal;}
-.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-eo4b{border-color:#ffffff;font-style:italic;text-align:left;vertical-align:top}
+.tg .tg-l{border-color:#ffffff;text-align:right;vertical-align:top}
+.tg .tg-r{border-color:inherit;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
-<thead>
   <tr>
-    <td class="tg-0pky" rowspan="4">2021 - present</td>
-    <td class="tg-zv4m">Iván Pereira-Sánchez</td>
+    <td class="tg-l" rowspan="4">2021 - present</td>
+    <td class="tg-r">Iván Pereira-Sánchez</td>
   </tr>
   <tr>
-    <td class="tg-eo4b">Deep variational learning for multi-image super-resolution</td>
+    <td class="tg-r"><em>Deep variational learning for multi-image super-resolution</em></td>
   </tr>
   <tr>
-    <td class="tg-zv4m">University of the Balearic Islands (UIB)</td>
+    <td class="tg-r">University of the Balearic Islands (UIB)</td>
   </tr>
   <tr>
-    <td class="tg-zv4m">Co-advised with Dr. Julia Navarro</td>
+    <td class="tg-r">Co-advised with Dr. Julia Navarro</td>
   </tr>
-</thead>
 </table>
-
-<table rules="cols">
-       <tr>
-           <td>2021 - present $$\:\:\:$$ </td>
-           <td>$$\:\:\:$$  Iván Pereira-Sánchez</td>
-       </tr>
-       <tr>
-           <td> </td>
-           <td><em>Deep variational learning for multi-image super-resolution</em></td>
-       </tr>
-       <tr>
-           <td> </td>
-           <td>University of the Balearic Islands (UIB)</td>
-       </tr>
-       <tr>
-           <td> </td>
-           <td>Co-advised with Dr. Julia Navarro</td>
-       </tr>
-   </table>
 </div>
