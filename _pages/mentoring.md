@@ -50,39 +50,7 @@ nav_order: 4
   </tr>
 </thead>
 </table>
-
 </div>
-
-<html>
-  <head>
-    <title>Title of the document</title>
-    <style>
-      h2,
-      div,
-      p {
-        padding: 10px;
-      }
-      h2 {
-        border: 3px double #1c87c9;
-        background-color: #d9d9d9;
-      }
-      div {
-        border-left: 5px solid #1c87c9;
-        background-color: #cccccc
-      }
-      p {
-        border: 10px groove #8ebf42;
-      }
-    </style>
-  </head>
-  <body>
-    <h2>Border Example</h2>
-    <div> Div example for the border property.</div>
-    <p>Some paragraph with border.</p>
-  </body>
-</html>
-
-
 
 <div class="projects">
 <h5 class="category">B.Sc. in Chemistry</h5>
