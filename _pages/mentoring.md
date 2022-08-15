@@ -50,6 +50,25 @@ nav_order: 4
   </tr>
 </thead>
 </table>
+
+<table rules="cols">
+       <tr>
+           <th>2021 - present </th>
+           <th>Iván Pereira-Sánchez</th>
+       </tr>
+       <tr>
+           <td> </td>
+           <td><em>Deep variational learning for multi-image super-resolution</em></td>
+       </tr>
+       <tr>
+           <td> </td>
+           <td>University of the Balearic Islands (UIB)</td>
+       </tr>
+       <tr>
+           <td> </td>
+           <td>Co-advised with Dr. Julia Navarro</td>
+       </tr>
+   </table>
 </div>
 
 <div class="projects">
