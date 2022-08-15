@@ -28,6 +28,7 @@ nav_order: 4
 .tg td{padding:1px 8px;}
 .tg .tg-1{text-align:right;vertical-align:top}
 .tg .tg-2{text-align:left;vertical-align:top}
+.tg .tg-3{padding: 3px 8px 1px 8px; text-align:right;vertical-align:top}
 </style>
 <table class="tg">
   <tr>
@@ -44,7 +45,7 @@ nav_order: 4
     <td class="tg-2">Co-advised with Dr. Julia Navarro</td>
   </tr>
   <tr>
-    <td class="tg-1">2021 - 2022</td>
+    <td class="tg-3">2021 - 2022</td>
     <td class="tg-2">Test</td>
   </tr>
 </table>
