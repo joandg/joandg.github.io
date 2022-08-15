@@ -25,22 +25,20 @@ nav_order: 4
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-style:solid;border-width:0px;overflow:hidden;padding:2px 5px;
-  word-break:normal;}
-.tg th{border-style:solid;border-width:0px;
-  overflow:hidden;padding:2px 5px;word-break:normal;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:3px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:3px 5px;word-break:normal;}
 .tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-eo4b{border-color:#ffffff;font-style:italic;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-0pky" rowspan="4">2021 - present</td>
-    <td class="tg-zv4m">Iván Pereira-Sánchez</td>
+    <td class="tg-zv4m" rowspan="4">2021 - present</td>
+    <td class="tg-zv4m">Iván Pereira Sánchez</td>
   </tr>
   <tr>
-    <td class="tg-eo4b">Deep variational learning for multi-image super-resolution</td>
+    <td class="tg-zv4m">Deep variational learning for multi-image super-resolution</td>
   </tr>
   <tr>
     <td class="tg-zv4m">University of the Balearic Islands (UIB)</td>
