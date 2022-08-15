@@ -87,6 +87,16 @@ nav_order: 4
     <td class="tg-2">Student of the double BSc in Mathematics and Telematics Engineering at <a href="https://uib.eu">University of the Balearic Islands</a></td>
   </tr>
   <tr>
+    <td class="tg-12" rowspan="3">09/2021 - 07/2022</td>
+    <td class="tg-22">Maria Mulet and Guillem Serra</td>
+  </tr>
+  <tr>
+    <td class="tg-2"><i>Introduction to graph neural networks</i></td>
+  </tr>
+  <tr>
+  <td class="tg-2">Students of the BSc in Mathematics at <a href="https://uib.eu">University of the Balearic Islands</a></td>
+  </tr>
+  <tr>
     <td class="tg-12" rowspan="3">09/2020 - 07/2021</td>
     <td class="tg-22">Cristian Comellas</td>
   </tr>
