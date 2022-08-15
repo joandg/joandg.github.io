@@ -1,19 +1,18 @@
 ---
 layout: page
-title: Teaching
-permalink: /Teaching/
+title: Mentoring
+permalink: /Mentoring/
 # description:
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
-This is a list of all courses I have teached at the [University of the Balearic Islands](https://uib.eu) (UIB) since 2013. All materials can be downloaded from <em>Aula Digital</em>. You are required to be a student at UIB and be enrolled in the corresponding course to have access to all data.
 
 <div class="projects">
 <h5 class="category">B.Sc. in Mathematics</h5>
 </div>
 
-* 2022 - present $$\mid$$ [Advanced Mathematical Analysis](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20585/index.html)
+* 2022 - present $$\mid$$ [Advanced Mathematical Analysis](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20585/index.html) $$\mid$$ 4th course
 * 2021 - present $$\mid$$ [Fundamentals of Mathematics](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20572/index.html)
 * 2019 - present $$\mid$$ [Partial Differential Equations](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20327/index.html)
 * 2018 - 2022 $$\mid$$ [Mathematical Analysis II](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20574/index.html)
@@ -44,5 +43,4 @@ This is a list of all courses I have teached at the [University of the Balearic 
 </div>
 
 * 2016 - 2022 $$\mid$$ [Introduction to Mathematical Models in Image Restoration](https://www.uib.eu/Learn/estudis-de-master/master/MFMA/11301/index.html)
-
 * 2017 - 2020 $$\mid$$ [Introduction to Subpixel Images](https://www.uib.eu/Learn/estudis-de-master/master/MFMA/11303/index.html)
