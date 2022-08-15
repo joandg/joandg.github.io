@@ -25,8 +25,8 @@ nav_order: 4
 
 <style type="text/css">
 .tg  {border-collapse:collapse; border-spacing:2;}
-.tg td{border-color:black;border-style:solid;border-width:2px;overflow:hidden;padding:3px 5px;word-break:normal;}
-.tg .tg-1{text-align:right;vertical-align:top}
+.tg td{border-color:black;border-style:solid;border-width:0px;overflow:hidden;padding:3px 5px;word-break:normal;}
+.tg .tg-1{border-color:black; border-right: 2px; text-align:right;vertical-align:top}
 .tg .tg-2{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
