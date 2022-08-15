@@ -84,17 +84,27 @@ nav_order: 4
     <td class="tg-2"><i>Deep unfolding networks for satellite image fusion</i></td>
   </tr>
   <tr>
-    <td class="tg-2">Student of the double B.Sc. in Mathematics and Telematics Engineering at <a href="https://www.upc.edu/en?set_language=en">Polytechnic University of Catalonia</a></td>
+    <td class="tg-2">Student of the double BSc in Mathematics and Telematics Engineering at <a href="https://uib.eu">University of the Balearic Islands</a></td>
   </tr>
   <tr>
-    <td class="tg-12" rowspan="3">05/2019 - 07/2019</td>
-    <td class="tg-22">Antoine Reynaert</td>
+    <td class="tg-12" rowspan="3">09/2020 - 07/2021</td>
+    <td class="tg-22">Cristian Comellas</td>
   </tr>
   <tr>
-    <td class="tg-2"><i>Optical flow methods</i></td>
+    <td class="tg-2"><i>Deep neural networks for image decompression</i></td>
   </tr>
   <tr>
-    <td class="tg-2">Visiting MSc student from the <a href="https://www.grenoble-inp.fr/en">Grenoble Institute of Technology</a></td>
+    <td class="tg-2">Student of the BSc in Computer Engineering at <a href="https://uib.eu">University of the Balearic Islands</a></td>
+  </tr>
+  <tr>
+    <td class="tg-12" rowspan="3">09/2019 - 07/2020</td>
+    <td class="tg-22">Ginés Carreto and Martí Gelabert</td>
+  </tr>
+  <tr>
+    <td class="tg-2"><i>Deep neural networks for image denoising</i></td>
+  </tr>
+  <tr>
+  <td class="tg-2">Students of the BSc in Computer Engineering at <a href="https://uib.eu">University of the Balearic Islands</a></td>
   </tr>
 </table>
 </div>
