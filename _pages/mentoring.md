@@ -23,11 +23,12 @@ nav_order: 4
 <div class="projects">
 <h5 class="category">PhD students</h5>
 
-<<style type="text/css">
+<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;
+.tg td{border-style:solid;border-width:0px;overflow:hidden;padding:2px 5px;
+  word-break:normal;}
+.tg th{border-style:solid;border-width:0px;
   overflow:hidden;padding:2px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-weight:normal;overflow:hidden;padding:2px 5px;word-break:normal;}
 .tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
 .tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
