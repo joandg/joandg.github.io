@@ -23,10 +23,9 @@ If you are a BsC/MsC/PhD student looking for a research internship, contact me b
 <h5 class="category">PhD students</h5>
 </div>
 
-* 2021 - present $$\mid$$ Iván Pereira-Sánchez $$\mid$$ 
-Deep variational learning for multi-image super-resolution
-University of the Balearic Islands
-Co-advised with Dr. Julia Navarro
+| 2021 - present | Iván Pereira-Sánchez | 
+| ---                    | ---           |                                                                                                                                       | ---                    | Deep variational learning for multi-image super-resolution
+
 
 <div class="projects">
 <h5 class="category">B.Sc. in Chemistry</h5>
