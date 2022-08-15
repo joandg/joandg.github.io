@@ -418,7 +418,12 @@ footer.sticky-bottom {
     width: 250px;
     margin-bottom: 10px;
   }
-
+  h5 {
+    margin-bottom: 1rem;
+    span {
+      font-size: 1.5rem;
+    }
+  }
   h5.category {
     color: var(--global-divider-color);
     border-bottom: 1px solid var(--global-divider-color);
