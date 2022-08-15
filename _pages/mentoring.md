@@ -34,7 +34,7 @@ nav_order: 4
 <table class="tg">
   <tr>
     <td class="tg-1" rowspan="4">2021 - present</td>
-    <td class="tg-2">Iván Pereira Sánchez</td>
+    <td class="tg-2">Iván Pereira-Sánchez</td>
   </tr>
   <tr>
     <td class="tg-2"><i>Deep variational learning for multi-image super-resolution</i></td>
@@ -45,11 +45,8 @@ nav_order: 4
   <tr>
     <td class="tg-2">Co-advised with Dr. Julia Navarro</td>
   </tr>
-  <tr>
-    <td class="tg-12">2021 - 2022</td>
-    <td class="tg-22">Test</td>
-  </tr>
 </table>
+</div>
 
 
 <div class="projects">
@@ -85,3 +82,4 @@ nav_order: 4
     <td class="tg-2">Visiting MSc student from the Grenoble Institute of Technology</td>
   </tr>
 </table>
+</div>
