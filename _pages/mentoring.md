@@ -51,10 +51,10 @@ nav_order: 4
 </thead>
 </table>
 
-<table rules="cols" bordercolor=black border-spacing: 10px>
+<table rules="cols" bordercolor=black>
        <tr>
-           <td>2021 - present  </td>
-           <td>Iván Pereira-Sánchez</td>
+           <td>2021 - present $$\quad$$ </td>
+           <td>$$\quad$$  Iván Pereira-Sánchez</td>
        </tr>
        <tr>
            <td> </td>
