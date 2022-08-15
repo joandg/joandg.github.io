@@ -24,8 +24,8 @@ nav_order: 4
 <h5 class="category">PhD students</h5>
 
 <style type="text/css">
-.tg  {border-collapse:collapse; border-spacing:5; border-width:0px}
-.tg td{overflow:hidden;padding:5px 20px;word-break:normal;}
+.tg  {border-collapse:collapse; border-width:0px}
+.tg td{padding:2px 10px;word-break:normal;}
 .tg .tg-1{text-align:right;vertical-align:top}
 .tg .tg-2{text-align:left;vertical-align:top}
 </style>
