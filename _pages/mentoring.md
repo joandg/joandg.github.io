@@ -29,7 +29,6 @@ nav_order: 4
   word-break:normal;}
 .tg th{border-style:solid;border-width:0px;
   overflow:hidden;padding:2px 5px;word-break:normal;}
-.tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
 .tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-eo4b{border-color:#ffffff;font-style:italic;text-align:left;vertical-align:top}
@@ -47,12 +46,42 @@ nav_order: 4
     <td class="tg-zv4m">University of the Balearic Islands (UIB)</td>
   </tr>
   <tr>
-    <td class="tg-oe15">Co-advised with Dr. Julia Navarro</td>
+    <td class="tg-zv4m">Co-advised with Dr. Julia Navarro</td>
   </tr>
 </thead>
 </table>
 
 </div>
+
+<html>
+  <head>
+    <title>Title of the document</title>
+    <style>
+      h2,
+      div,
+      p {
+        padding: 10px;
+      }
+      h2 {
+        border: 3px double #1c87c9;
+        background-color: #d9d9d9;
+      }
+      div {
+        border-left: 5px solid #1c87c9;
+        background-color: #cccccc
+      }
+      p {
+        border: 10px groove #8ebf42;
+      }
+    </style>
+  </head>
+  <body>
+    <h2>Border Example</h2>
+    <div> Div example for the border property.</div>
+    <p>Some paragraph with border.</p>
+  </body>
+</html>
+
 
 
 <div class="projects">
