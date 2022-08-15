@@ -65,7 +65,7 @@ nav_order: 4
     <td class="tg-22"><a href="https://fr.linkedin.com/in/antoine-reynaert-80421a152/en">Antoine Reynaert</a></td>
   </tr>
   <tr>
-    <td class="tg-2"><i>Optical flow methods</i></td>
+    <td class="tg-2"><i>Processing time optimization of variational optical flow</i></td>
   </tr>
   <tr>
     <td class="tg-2">Visiting MSc student from the <a href="https://www.grenoble-inp.fr/en">Grenoble Institute of Technology</a></td>
@@ -167,6 +167,58 @@ nav_order: 4
   <tr>
   <td class="tg-2">Co-advised with Prof. Bartomeu Coll</td>
   </tr>
+  <tr>
+    <td class="tg-12" rowspan="4">2022</td>
+    <td class="tg-22">Andreu Reviriego</td>
+  </tr>
+  <tr>
+    <td class="tg-2"><i>Introducció a l'aprenentatge automàtic i als seus mètodes d'optimització</i></td>
+  </tr>
+  <tr>
+  <td class="tg-2">BSc in Mathematics at <a href="https://uib.eu">University of the Balearic Islands</a></td>
+  </tr>
+  <tr>
+  <td class="tg-2">Co-advised with Prof. Antoni Buades</td>
+  </tr>
+  <tr>
+  <td class="tg-12" rowspan="4">2021</td>
+  <td class="tg-22">Catalina V. Molina</td>
+</tr>
+<tr>
+  <td class="tg-2"><i>Equacions en derivades parcials per al processament digital d'imatges</i></td>
+</tr>
+<tr>
+<td class="tg-2">BSc in Mathematics at <a href="https://uib.eu">University of the Balearic Islands</a></td>
+</tr>
+<tr>
+<td class="tg-2">Co-advised with Dr. Catalina Sbert</td>
+</tr>
+<tr>
+<td class="tg-12" rowspan="4">2021</td>
+<td class="tg-22">Joana Cáceres</td>
+</tr>
+<tr>
+<td class="tg-2"><i>Análisis multivariante de datos para procesamiento de imágenes</i></td>
+</tr>
+<tr>
+<td class="tg-2">BSc in Mathematics at <a href="https://uib.eu">University of the Balearic Islands</a></td>
+</tr>
+<tr>
+<td class="tg-2">Co-advised with Dr. Catalina Vich</td>
+</tr>
+<tr>
+<td class="tg-12" rowspan="4">2018</td>
+<td class="tg-22">Ramon Oliver</td>
+</tr>
+<tr>
+<td class="tg-2"><i>Convex variational methods and optimization techniques for image processing</i></td>
+</tr>
+<tr>
+<td class="tg-2">BSc in Mathematics at <a href="https://uib.eu">University of the Balearic Islands</a></td>
+</tr>
+<tr>
+<td class="tg-2">Co-advised with Prof. Bartomeu Coll</td>
+</tr>
   </table>
 
 </div>
