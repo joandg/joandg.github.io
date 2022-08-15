@@ -40,7 +40,7 @@ nav_order: 4
     <td class="tg-2"><i>Deep variational learning for multi-image super-resolution</i></td>
   </tr>
   <tr>
-    <td class="tg-2"><a href="https://uib.eu>University of the Balearic Islands</a></td>
+    <td class="tg-2"><a href="https://uib.eu">University of the Balearic Islands</a></td>
   </tr>
   <tr>
     <td class="tg-2">Co-advised with Dr. Julia Navarro</td>
@@ -84,7 +84,7 @@ nav_order: 4
     <td class="tg-2"><i>Deep unfolding networks for satellite image fusion</i></td>
   </tr>
   <tr>
-    <td class="tg-2">Student of the double B.Sc. in Mathematics and Telematics Engineering at <a href="https://www.upc.edu/en?set_language=en">Polytechnic University of Catalonia</a <a></td>
+    <td class="tg-2">Student of the double B.Sc. in Mathematics and Telematics Engineering at <a href="https://www.upc.edu/en?set_language=en">Polytechnic University of Catalonia</a></td>
   </tr>
   <tr>
     <td class="tg-12" rowspan="3">05/2019 - 07/2019</td>
