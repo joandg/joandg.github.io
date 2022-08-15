@@ -6,7 +6,7 @@ permalink: /Mentoring/
 nav: true
 nav_order: 4
 ---
-
+<div style="text-align: justify">
 Life as a scientist is incredibly rewarding - I often feel that I am being paid to indulge in an exciting hobby. Being able to perceive the frontier of human knowledge is exhilarating. If I am lucky, I will push it a teensy bit.
 
 I am committed to supporting students as they explore science as a profession. I will be happy to meet with you and chat about being a scientist, what can you do to be a successful one, and academic life in general. Sometimes, I also advise research projects in artificial intelligence (AI) and machine learning (ML) that align with my research and personal interests.
@@ -18,6 +18,7 @@ If you are a student (especially in a developing part of the world) and would li
 If you are a BsC/MsC student at UIB interested in pursuing your degree/master thesis in any of my fields of research or in Functional Analysis, Partial Differential Equations or Calculus of Variations, visit my teaching page.
 
 If you are a BsC/MsC/PhD student looking for a research internship, contact me by email.
+</div>
 
 <div class="projects">
 <h5 class="category">PhD students</h5>
