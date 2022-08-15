@@ -58,7 +58,7 @@ nav_order: 4
     <td class="tg-2"><i>Variational video deblurring</i></td>
   </tr>
   <tr>
-    <td class="tg-2">Visiting BSc student from the Polytechnic University of Catalonia</td>
+    <td class="tg-2">Visiting BSc student from the <a href="https://www.upc.edu/en?set_language=en">Polytechnic University of Catalonia</a <a></td>
   </tr>
   <tr>
     <td class="tg-12" rowspan="3">05/2019 - 07/2019</td>
@@ -68,7 +68,7 @@ nav_order: 4
     <td class="tg-2"><i>Optical flow methods</i></td>
   </tr>
   <tr>
-    <td class="tg-2">Visiting MSc student from the Grenoble Institute of Technology</td>
+    <td class="tg-2">Visiting MSc student from the <a href="https://www.grenoble-inp.fr/en">Grenoble Institute of Technology</a></td>
   </tr>
 </table>
 </div>
