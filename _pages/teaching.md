@@ -13,7 +13,7 @@ This is a list of all courses I have teached at the [University of the Balearic 
 <h5 class="category">B.Sc. in Mathematics</h5>
 </div>
 
-* 2022 - present | [Advanced Mathematical Analysis](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20585/index.html)
+* 2022 - present \| [Advanced Mathematical Analysis](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20585/index.html)
 
 * 2021 - present | [Fundamentals of Mathematics](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20572/index.html)
 
@@ -29,7 +29,7 @@ This is a list of all courses I have teached at the [University of the Balearic 
 <h5 class="category">B.Sc. in Chemistry</h5>
 </div>
 
-* 2017 - 2021 | [Mathematics I - Calculus](https://www.uib.eu/Learn/estudis-de-grau/grau/quimica/GQUI-P/21457/index.html)
+* 2017 - 2021 | [Mathematics I](https://www.uib.eu/Learn/estudis-de-grau/grau/quimica/GQUI-P/21457/index.html)
 
 
 <div class="projects">
