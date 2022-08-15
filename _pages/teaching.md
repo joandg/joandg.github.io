@@ -13,8 +13,8 @@ This is a list of all courses I have teached at the [University of the Balearic 
 <h5 class="category">B.Sc. in Mathematics</h5>
 </div>
 
-* 2022 - present $$\mid$$ [Advanced Mathematical Analysis](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20585/index.html) $$\mid$$ 4th course $$\mid$$ Functional analysis
-* 2021 - present $$\mid$$ [Fundamentals of Mathematics](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20572/index.html) $$\mid$$ 1st course $$\mid$$ Mathematical logic, methods of proof, set theory, integer and polynomial arithmetic
+* 2022 - present $$\mid$$ [Advanced Mathematical Analysis](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20585/index.html) $$\mid$$ 4th course
+* 2021 - present $$\mid$$ [Fundamentals of Mathematics](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20572/index.html) $$\mid$$ 1st course
 * 2019 - present $$\mid$$ [Partial Differential Equations](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20327/index.html) $$\mid$$ 3rd course
 * 2018 - 2022 $$\mid$$ [Mathematical Analysis II](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20574/index.html) $$\mid$$ 1st course
 * 2020 - 2021 $$\mid$$ [Affine and Metric Geometry](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20318/index.html) $$\mid$$ 2nd course
