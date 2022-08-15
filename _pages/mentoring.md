@@ -73,7 +73,7 @@ nav_order: 4
 </table>
 
 
-<h5 class="category">Undergraduate students</h5>
+<h5 class="category">Undergraduate internship students</h5>
 
 <table class="tg">
   <tr>
@@ -117,4 +117,22 @@ nav_order: 4
   <td class="tg-2">Students of the BSc in Computer Engineering at <a href="https://uib.eu">University of the Balearic Islands</a></td>
   </tr>
 </table>
+
+
+<h5 class="category">MsC thesis</h5>
+
+<table class="tg">
+  <tr>
+    <td class="tg-1" rowspan="4"> 2020</td>
+    <td class="tg-2">Iván Pereira</td>
+  </tr>
+  <tr>
+    <td class="tg-2"><i>Completació de vídeo a partir de la distribució espaciotemporal de patches</i></td>
+  </tr>
+  <tr>
+    <td class="tg-2">M.Sc. in Advanced Physics and Applied Mathematics at <a href="https://uib.eu">University of the Balearic Islands</a></td>
+  </tr>
+</table>
+
+
 </div>
