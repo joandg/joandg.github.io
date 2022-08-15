@@ -23,29 +23,30 @@ nav_order: 4
 <div class="projects">
 <h5 class="category">PhD students</h5>
 
-<style type="text/css">
+<<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg td{border-color:black;border-style:solid;border-width:1px;
+  overflow:hidden;padding:2px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-weight:normal;overflow:hidden;padding:2px 5px;word-break:normal;}
+.tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+.tg .tg-eo4b{border-color:#ffffff;font-style:italic;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
     <td class="tg-0pky" rowspan="4">2021 - present</td>
-    <td class="tg-0pky">Iván Pereira-Sánchez</td>
+    <td class="tg-zv4m">Iván Pereira-Sánchez</td>
   </tr>
   <tr>
-    <td class="tg-f8tv">Deep variational learning for multi-image super-resolution</td>
+    <td class="tg-eo4b">Deep variational learning for multi-image super-resolution</td>
   </tr>
   <tr>
-    <td class="tg-0pky">University of the Balearic Islands (UIB)</td>
+    <td class="tg-zv4m">University of the Balearic Islands (UIB)</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Co-advised with Dr. Julia Navarro</td>
+    <td class="tg-oe15">Co-advised with Dr. Julia Navarro</td>
   </tr>
 </thead>
 </table>
@@ -58,23 +59,3 @@ nav_order: 4
 </div>
 
 * 2017 - 2021 $$\mid$$ [Mathematics I](https://www.uib.eu/Learn/estudis-de-grau/grau/quimica/GQUI-P/21457/index.html)
-
-
-<div class="projects">
-<h5 class="category">B.Sc. in Computer Science</h5>
-</div>
-
-* 2013 - 2020 $$\mid$$ [Mathematics II - Calculus](https://www.uib.eu/Learn/estudis-de-grau/grau/informatica/GIN3-P/20301/index.html)
-
-<div class="projects">
-<h5 class="category">B.Sc. in Biochemistry</h5>
-</div>
-
-* 2018 - 2019 $$\mid$$ [Mathematics I](https://www.uib.eu/Learn/estudis-de-grau/grau/bioquimica/GBIQ-P/21545/index.html)
-
-<div class="projects">
-<h5 class="category">M.Sc. in Advanced Physics and Applied Mathematics</h5>
-</div>
-
-* 2016 - 2022 $$\mid$$ [Introduction to Mathematical Models in Image Restoration](https://www.uib.eu/Learn/estudis-de-master/master/MFMA/11301/index.html)
-* 2017 - 2020 $$\mid$$ [Introduction to Subpixel Images](https://www.uib.eu/Learn/estudis-de-master/master/MFMA/11303/index.html)
