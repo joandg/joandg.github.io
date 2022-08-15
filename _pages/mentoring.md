@@ -51,9 +51,9 @@ nav_order: 4
 </thead>
 </table>
 
-<table rules="cols" bordercolor=black>
+<table rules="cols">
        <tr>
-           <th>2021 - present </th>
+           <th>2021 - present    </th>
            <th>Iván Pereira-Sánchez</th>
        </tr>
        <tr>
