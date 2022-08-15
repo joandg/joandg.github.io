@@ -47,7 +47,7 @@ nav_order: 4
   </tr>
 </table>
 
-<h5 class="category">Visiting students</h5>
+<h5 class="category">Visiting research students</h5>
 
 <table class="tg">
   <tr>
@@ -73,7 +73,7 @@ nav_order: 4
 </table>
 
 
-<h5 class="category">Undergraduate internship students</h5>
+<h5 class="category">Undergraduate research internship students</h5>
 
 <table class="tg">
   <tr>
@@ -119,7 +119,7 @@ nav_order: 4
 </table>
 
 
-<h5 class="category">MsC thesis</h5>
+<h5 class="category">MSc thesis</h5>
 
 <table class="tg">
   <tr>
@@ -130,9 +130,42 @@ nav_order: 4
     <td class="tg-2"><i>Completació de vídeo a partir de la distribució espaciotemporal de patches</i></td>
   </tr>
   <tr>
-    <td class="tg-2">M.Sc. in Advanced Physics and Applied Mathematics at <a href="https://uib.eu">University of the Balearic Islands</a></td>
-  </tr>
+    <td class="tg-2">MSc in Advanced Physics and Applied Mathematics at <a href="https://uib.eu">University of the Balearic Islands</a></td>
+  </tr> 
+  <tr>
+  <td class="tg-2">Co-advised with Prof. Bartomeu Coll</td>
+</tr>
 </table>
 
+
+<h5 class="category">BSc thesis</h5>
+
+<table class="tg">
+  <tr>
+    <td class="tg-1" rowspan="4"> 2022</td>
+    <td class="tg-2">M. Francesc Alcover</td>
+  </tr>
+  <tr>
+    <td class="tg-2"><i>Classical functional analysis and a new nonlocal BV space</i></td>
+  </tr>
+  <tr>
+    <td class="tg-2">BSc in Mathematics at <a href="https://uib.eu">University of the Balearic Islands</a></td>
+  </tr>
+  <tr>
+    <td class="tg-2">Co-advised with Dr. Catalina Sbert</td>
+  </tr>
+  <tr>
+    <td class="tg-12" rowspan="4">2022</td>
+    <td class="tg-22">Daniel Torres</td>
+  </tr>
+  <tr>
+    <td class="tg-2"><i>Anàlisi i optimització convexa amb aplicacions al processament d'imatges</i></td>
+  </tr>
+  <tr>
+  <td class="tg-2">BSc in Mathematics at <a href="https://uib.eu">University of the Balearic Islands</a></td>
+  </tr>
+  <tr>
+  <td class="tg-2">Co-advised with Prof. Bartomeu Coll</td>
+  </tr>
 
 </div>
