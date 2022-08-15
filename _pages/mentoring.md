@@ -28,8 +28,8 @@ nav_order: 4
 .tg td{padding:1px 8px;}
 .tg .tg-1{text-align:right;vertical-align:top}
 .tg .tg-2{text-align:left;vertical-align:top}
-.tg .tg-12{padding: 5px 8px 1px 8px; text-align:right;vertical-align:top}
-.tg .tg-22{padding: 5px 8px 1px 8px; text-align:left;vertical-align:top}
+.tg .tg-12{padding: 10px 8px 1px 8px; text-align:right;vertical-align:top}
+.tg .tg-22{padding: 10px 8px 1px 8px; text-align:left;vertical-align:top}
 </style>
 <table class="tg">
   <tr>
@@ -40,7 +40,7 @@ nav_order: 4
     <td class="tg-2"><i>Deep variational learning for multi-image super-resolution</i></td>
   </tr>
   <tr>
-    <td class="tg-2">University of the Balearic Islands (UIB)</td>
+    <td class="tg-2">University of the Balearic Islands</td>
   </tr>
   <tr>
     <td class="tg-2">Co-advised with Dr. Julia Navarro</td>
@@ -48,5 +48,40 @@ nav_order: 4
   <tr>
     <td class="tg-12">2021 - 2022</td>
     <td class="tg-22">Test</td>
+  </tr>
+</table>
+
+
+<div class="projects">
+<h5 class="category">Visiting students</h5>
+
+<style type="text/css">
+.tg  {border-collapse:collapse; border-width:0px}
+.tg td{padding:1px 8px;}
+.tg .tg-1{text-align:right;vertical-align:top}
+.tg .tg-2{text-align:left;vertical-align:top}
+.tg .tg-12{padding: 10px 8px 1px 8px; text-align:right;vertical-align:top}
+.tg .tg-22{padding: 10px 8px 1px 8px; text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <td class="tg-1" rowspan="3"> 06/2020 - 08/2020</td>
+    <td class="tg-2">Bernat Ramis</td>
+  </tr>
+  <tr>
+    <td class="tg-2"><i>Variational video deblurring</i></td>
+  </tr>
+  <tr>
+    <td class="tg-2">Visiting BSc student from the Polytechnic University of Catalonia</td>
+  </tr>
+  <tr>
+    <td class="tg-12">05/2019 - 07/2019</td>
+    <td class="tg-22">Antoine Reynaert</td>
+  </tr>
+  <tr>
+    <td class="tg-2"><i>Optical flow methods</i></td>
+  </tr>
+  <tr>
+    <td class="tg-2">Visiting MSc student from the Grenoble Institute of Technology</td>
   </tr>
 </table>
