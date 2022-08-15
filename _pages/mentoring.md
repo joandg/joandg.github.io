@@ -25,21 +25,22 @@ nav_order: 4
 
 <style type="text/css">
 .tg  {border-collapse:collapse; border-spacing:2;}
-.tg td{border-color:black;border-style:solid;border-width:0px;overflow:hidden;padding:3px 5px;word-break:normal;}
-.tg .tg-zv4m{text-align:left;vertical-align:top}
+.tg td{border-color:black;border-style:solid;border-width:2px;overflow:hidden;padding:3px 5px;word-break:normal;}
+.tg .tg-1{text-align:right;vertical-align:top}
+.tg .tg-2{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
   <tr>
-    <td class="tg-zv4m" rowspan="4">2021 - present</td>
-    <td class="tg-zv4m">Iván Pereira Sánchez</td>
+    <td class="tg-1" rowspan="4">2021 - present</td>
+    <td class="tg-2">Iván Pereira Sánchez</td>
   </tr>
   <tr>
-    <td class="tg-zv4m">Deep variational learning for multi-image super-resolution</td>
+    <td class="tg-2">Deep variational learning for multi-image super-resolution</td>
   </tr>
   <tr>
-    <td class="tg-zv4m">University of the Balearic Islands (UIB)</td>
+    <td class="tg-2">University of the Balearic Islands (UIB)</td>
   </tr>
   <tr>
-    <td class="tg-zv4m">Co-advised with Dr. Julia Navarro</td>
+    <td class="tg-2">Co-advised with Dr. Julia Navarro</td>
   </tr>
 </table>
