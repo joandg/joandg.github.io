@@ -25,7 +25,7 @@ nav_order: 4
 
 <style type="text/css">
 .tg  {border-collapse:collapse; border-width:0px}
-.tg td{padding:2px 10px;word-break:normal;}
+.tg td{padding:1px 8px;}
 .tg .tg-1{text-align:right;vertical-align:top}
 .tg .tg-2{text-align:left;vertical-align:top}
 </style>
