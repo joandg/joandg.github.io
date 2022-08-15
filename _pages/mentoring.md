@@ -46,20 +46,9 @@ nav_order: 4
     <td class="tg-2">Co-advised with Dr. Julia Navarro</td>
   </tr>
 </table>
-</div>
 
-
-<div class="projects">
 <h5 class="category">Visiting students</h5>
 
-<style type="text/css">
-.tg  {border-collapse:collapse; border-width:0px}
-.tg td{padding:1px 8px;}
-.tg .tg-1{text-align:right;vertical-align:top}
-.tg .tg-2{text-align:left;vertical-align:top}
-.tg .tg-12{padding: 10px 8px 1px 8px; text-align:right;vertical-align:top}
-.tg .tg-22{padding: 10px 8px 1px 8px; text-align:left;vertical-align:top}
-</style>
 <table class="tg">
   <tr>
     <td class="tg-1" rowspan="3"> 06/2020 - 08/2020</td>
@@ -72,7 +61,7 @@ nav_order: 4
     <td class="tg-2">Visiting BSc student from the Polytechnic University of Catalonia</td>
   </tr>
   <tr>
-    <td class="tg-12">05/2019 - 07/2019</td>
+    <td class="tg-12" rowspan="3">05/2019 - 07/2019</td>
     <td class="tg-22">Antoine Reynaert</td>
   </tr>
   <tr>
