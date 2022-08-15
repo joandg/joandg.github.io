@@ -24,8 +24,8 @@ nav_order: 4
 <h5 class="category">PhD students</h5>
 
 <style type="text/css">
-.tg  {border-collapse:collapse; border-spacing:2; border-width:0px}
-.tg td{overflow:hidden;padding:5px 3px;word-break:normal;}
+.tg  {border-collapse:collapse; border-spacing:4; border-width:0px}
+.tg td{overflow:hidden;padding:5px 2px;word-break:normal;}
 .tg .tg-1{text-align:right;vertical-align:top}
 .tg .tg-2{text-align:left;vertical-align:top}
 </style>
@@ -42,9 +42,9 @@ nav_order: 4
   </tr>
   <tr>
     <td class="tg-2">Co-advised with Dr. Julia Navarro</td>
-    <tr>
-      <td class="tg-1">2021 - 2022</td>
-      <td class="tg-2">Test</td>
-    </tr>
-    
+  </tr>
+  <tr>
+    <td class="tg-1">2021 - 2022</td>
+    <td class="tg-2">Test</td>
+  </tr>
 </table>
