@@ -62,7 +62,7 @@ nav_order: 4
   </tr>
   <tr>
     <td class="tg-12" rowspan="3">05/2019 - 07/2019</td>
-    <td class="tg-22">Antoine Reynaert</td>
+    <td class="tg-22"><a href="https://fr.linkedin.com/in/antoine-reynaert-80421a152/en">Antoine Reynaert</a></td>
   </tr>
   <tr>
     <td class="tg-2"><i>Optical flow methods</i></td>
