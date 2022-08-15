@@ -28,7 +28,8 @@ nav_order: 4
 .tg td{padding:1px 8px;}
 .tg .tg-1{text-align:right;vertical-align:top}
 .tg .tg-2{text-align:left;vertical-align:top}
-.tg .tg-3{padding: 5px 8px 1px 8px; text-align:right;vertical-align:top}
+.tg .tg-12{padding: 5px 8px 1px 8px; text-align:right;vertical-align:top}
+.tg .tg-22{padding: 5px 8px 1px 8px; text-align:left;vertical-align:top}
 </style>
 <table class="tg">
   <tr>
@@ -36,7 +37,7 @@ nav_order: 4
     <td class="tg-2">Iván Pereira Sánchez</td>
   </tr>
   <tr>
-    <td class="tg-2"><em>Deep variational learning for multi-image super-resolution</em></td>
+    <td class="tg-2"><i>Deep variational learning for multi-image super-resolution</i></td>
   </tr>
   <tr>
     <td class="tg-2">University of the Balearic Islands (UIB)</td>
@@ -44,8 +45,8 @@ nav_order: 4
   <tr>
     <td class="tg-2">Co-advised with Dr. Julia Navarro</td>
   </tr>
-  <tr class="tg-3">
-    <td class="tg-1">2021 - 2022</td>
-    <td class="tg-2">Test</td>
+  <tr>
+    <td class="tg-12">2021 - 2022</td>
+    <td class="tg-22">Test</td>
   </tr>
 </table>
