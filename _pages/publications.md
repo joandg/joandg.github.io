@@ -13,7 +13,7 @@ An up-to-date list is available in my [Google Scholar](https://scholar.google.co
 <div class="publications">
 
 {%- for y in page.years %}
-  <h4 class="year">{{y}}</h4>
+  <h5 class="year">{{y}}</h5>
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
