@@ -7,10 +7,10 @@ nav: true
 nav_order: 4
 ---
 
-All materials can be downloaded from <em>Aula Digital</em>. You are required to be a student at [UIB](https://uib.eu) and be enrolled in the corresponding course to have access to all data.
+This is a list of all courses I have teached at the [University of the Balearic Islands](https://uib.eu) (UIB) since 2013. All materials can be downloaded from <em>Aula Digital</em>. You are required to be a student at UIB and be enrolled in the corresponding course to have access to all data.
 
 <div class="publications">
-<h4 class="category">B.Sc. in Mathematics</h4>
+<h4 class="year">B.Sc. in Mathematics</h4>
 </div>
 
 * 2022 - present: [Advanced Mathematical Analysis](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20585/index.html) (Functional Analysis), 4th course
@@ -26,26 +26,26 @@ All materials can be downloaded from <em>Aula Digital</em>. You are required to 
 * 2018 - 2019: [Advanced Models: Mathematical Information Modelling](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/assignatures.html), 4t course
 
 <div class="projects">
-<h4 class="category">B.Sc. in Chemistry</style></h4>
+<h4 class="year">B.Sc. in Chemistry</h4>
 </div>
 
 * 2017 - 2021: [Mathematics I - Calculus](https://www.uib.eu/Learn/estudis-de-grau/grau/quimica/GQUI-P/21457/index.html), 1st course
 
 
 <div class="projects">
-<h4 class="category">B.Sc. in Computer Science</h4>
+<h4 class="year">B.Sc. in Computer Science</h4>
 </div>
 
 * 2013 - 2020: [Mathematics II - Calculus](https://www.uib.eu/Learn/estudis-de-grau/grau/informatica/GIN3-P/20301/index.html), 1st course
 
 <div class="projects">
-<h4 class="category">B.Sc. in Biochemistry</h4>
+<h4 class="year">B.Sc. in Biochemistry</h4>
 </div>
 
 * 2018 - 2019: [Mathematics I](https://www.uib.eu/Learn/estudis-de-grau/grau/bioquimica/GBIQ-P/21545/index.html), 1st course
 
 <div class="projects">
-<h4 class="category">M.Sc. in Advanced Physics and Applied Mathematics</h4>
+<h4 class="year">M.Sc. in Advanced Physics and Applied Mathematics</h4>
 </div>
 
 * 2016 - 2022: [Introduction to Mathematical Models in Image Restoration](https://www.uib.eu/Learn/estudis-de-master/master/MFMA/11301/index.html)
