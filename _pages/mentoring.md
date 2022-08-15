@@ -15,16 +15,18 @@ I am firm believer in equitable science and want to support people from diverse 
 
 If you are a student (especially in a developing part of the world) and would like to talk, please email me with a brief description of who you are and why you would like to pursue a profession in science. As my expertise is in AI and ML, I am most comfortable discussing that space. I speak Hindi and English fluently.
 
+If you are a BsC/MsC student at UIB interested in pursuing your degree/master thesis in any of my fields of research or in Functional Analysis, Partial Differential Equations or Calculus of Variations, visit my teaching page.
+
+If you are a BsC/MsC/PhD student looking for a research internship, contact me by email.
+
 <div class="projects">
-<h5 class="category">B.Sc. in Mathematics</h5>
+<h5 class="category">PhD students</h5>
 </div>
 
-* 2022 - present $$\mid$$ [Advanced Mathematical Analysis](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20585/index.html) $$\mid$$ 4th course
-* 2021 - present $$\mid$$ [Fundamentals of Mathematics](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20572/index.html)
-* 2019 - present $$\mid$$ [Partial Differential Equations](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20327/index.html)
-* 2018 - 2022 $$\mid$$ [Mathematical Analysis II](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20574/index.html)
-* 2020 - 2021 $$\mid$$ [Affine and Metric Geometry](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20318/index.html)
-* 2018 - 2019 $$\mid$$ [Advanced Models: Mathematical Information Modelling](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/assignatures.html)
+* 2021 - present $$\mid$$ Iván Pereira-Sánchez $$\mid$$ 
+Deep variational learning for multi-image super-resolution
+University of the Balearic Islands
+Co-advised with Dr. Julia Navarro
 
 <div class="projects">
 <h5 class="category">B.Sc. in Chemistry</h5>
