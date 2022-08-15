@@ -167,5 +167,6 @@ nav_order: 4
   <tr>
   <td class="tg-2">Co-advised with Prof. Bartomeu Coll</td>
   </tr>
+  </table>
 
 </div>
