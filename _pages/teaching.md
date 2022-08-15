@@ -33,7 +33,7 @@ This is a list of all courses I have teached at the [University of the Balearic 
 
 
 <div class="publications">
-<h4 class="year">B.Sc. in Computer Science</h4>
+<h5 class="year">B.Sc. in Computer Science</h5>
 </div>
 
 * 2013 - 2020: [Mathematics II - Calculus](https://www.uib.eu/Learn/estudis-de-grau/grau/informatica/GIN3-P/20301/index.html), 1st course
