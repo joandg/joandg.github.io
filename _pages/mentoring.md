@@ -25,14 +25,11 @@ nav_order: 4
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:3px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:3px 5px;word-break:normal;}
-.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
+.tg td{border-color:black;border-style:solid;border-width:1px;overflow:hidden;padding:3px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;overflow:hidden;padding:3px 5px;word-break:normal;}
+.tg .tg-zv4m{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
-<thead>
   <tr>
     <td class="tg-zv4m" rowspan="4">2021 - present</td>
     <td class="tg-zv4m">Iván Pereira Sánchez</td>
@@ -46,5 +43,4 @@ nav_order: 4
   <tr>
     <td class="tg-zv4m">Co-advised with Dr. Julia Navarro</td>
   </tr>
-</thead>
 </table>
