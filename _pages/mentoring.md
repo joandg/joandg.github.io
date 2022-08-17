@@ -88,6 +88,16 @@ nav_order: 4
   </tr>
   <tr>
     <td class="tg-12" rowspan="3">09/2021 - 07/2022</td>
+    <td class="tg-22">M. Francesc Alcover</td>
+  </tr>
+  <tr>
+    <td class="tg-2"><i>Nonlocal vector calculus with applications to image processing</i></td>
+  </tr>
+  <tr>
+  <td class="tg-2">Student of the BSc in Mathematics at <a href="https://uib.eu">University of the Balearic Islands</a></td>
+  </tr>
+  <tr>
+    <td class="tg-12" rowspan="3">09/2020 - 07/2021</td>
     <td class="tg-22">Maria Mulet and Guillem Serra</td>
   </tr>
   <tr>
@@ -208,7 +218,7 @@ nav_order: 4
 </tr>
 <tr>
 <td class="tg-12" rowspan="4">2018</td>
-<td class="tg-22">Ramon Oliver</td>
+<td class="tg-22"><a href="https://www.researchgate.net/scientific-contributions/Ramon-Oliver-Bonafoux-2191070240">Ramon Oliver-Bonafoux</td>
 </tr>
 <tr>
 <td class="tg-2"><i>Convex variational methods and optimization techniques for image processing</i></td>
