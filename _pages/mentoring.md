@@ -218,7 +218,7 @@ nav_order: 4
 </tr>
 <tr>
 <td class="tg-12" rowspan="4">2018</td>
-<td class="tg-22"><a href="https://www.researchgate.net/scientific-contributions/Ramon-Oliver-Bonafoux-2191070240">Ramon Oliver-Bonafoux</td>
+<td class="tg-22"><a href="https://www.researchgate.net/scientific-contributions/Ramon-Oliver-Bonafoux-2191070240">Ramon Oliver-Bonafoux</a></td>
 </tr>
 <tr>
 <td class="tg-2"><i>Convex variational methods and optimization techniques for image processing</i></td>
