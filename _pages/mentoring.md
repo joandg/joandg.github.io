@@ -7,15 +7,15 @@ nav: true
 nav_order: 4
 ---
 <div style="text-align: justify">
-<p>I supervise students in functional analysis, variational methods, convex optimization and deep unfolding networks with applications in image processing, remote sensing and computer vision.</p>
+<p>I supervise students in functional analysis, variational methods, convex optimization, partial differential equations and deep unfolding networks with applications in image processing, remote sensing and computer vision.</p>
 
 <p>Are you a BSc/MSc/PhD student looking for a research internship or a student at the <a href="http://uib.eu">University of the Balearic Islands</a> interested in pursuing your degree/master thesis with me? <a href="mailto:joan.duran@uib.es">Contact me</a> for possible topics!</p>
 
-<p> You can find below the list of (PhD, visitors and undergraduate) students I have supervised in research.</p>
+<p> You can find below the list of <a href="#mentPhD">PhD</a>, <a href="#mentVisit">visiting</a> and <a href="#mentUndergrad">undergraduate</a> students I have supervised in research, and the <a href="#mentMSc">MSc</a> and <a href="#mentBSc">BSc</a> students whose thesis I have (co-)advised.</p>
 </div>
 
 <div class="projects">
-<h5 class="category">PhD students</h5>
+<h5 class="category" id="mentPhD">PhD students</h5>
 
 <style type="text/css">
 .tg  {border-collapse:collapse; border-width:0px}
@@ -41,7 +41,7 @@ nav_order: 4
   </tr>
 </table>
 
-<h5 class="category">Visiting research students</h5>
+<h5 class="category" id="mentVisit">Visiting research students</h5>
 
 <table class="tg">
   <tr>
@@ -67,7 +67,7 @@ nav_order: 4
 </table>
 
 
-<h5 class="category">Undergraduate research students</h5>
+<h5 class="category" id="mentUndergrad">Undergraduate research students</h5>
 
 <table class="tg">
   <tr>
@@ -123,9 +123,7 @@ nav_order: 4
 </table>
 
 
-You can find below the list of BSc and MSc students whose thesis I have advised.
-
-<h5 class="category">MSc thesis</h5>
+<h5 class="category" id="mentMSc">MSc thesis</h5>
 
 <table class="tg">
   <tr>
@@ -144,7 +142,7 @@ You can find below the list of BSc and MSc students whose thesis I have advised.
 </table>
 
 
-<h5 class="category">BSc thesis</h5>
+<h5 class="category" id="mentBSc">BSc thesis</h5>
 
 <table class="tg">
   <tr>
