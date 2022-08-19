@@ -7,22 +7,12 @@ nav: true
 nav_order: 4
 ---
 <div style="text-align: justify">
-<p>I supervise students in functional analysis, variational methods, convex optimization and deep unfolding networks with applications in image processing and satellite imaging.</p>
+<p>I supervise students in functional analysis, variational methods, convex optimization and deep unfolding networks with applications in image processing, computer vision and satellite imaging.</p>
 
-If you are a BSc/MSc/PhD student looking for a research internship, contact me by email.
-
-If you are looking for a research internship in mathematics applied to image processing, contact me by email.</p>
-
-<p>If you are a BSc/MSc student at UIB interested in pursuing your degree/master thesis in any of my fields of research or in Real Analysis, Functional Analysis, Partial Differential Equations or Calculus of Variations, contact me.</p>
+<p>If you are a BSc/MSc/PhD student looking for a research internship, contact me by <a href="mailto:joan.duran@uib.es">mail</a>.</p>
 
 
-You are looking for a topic and you are interested? Then, please contact me!
-
-
-In case you are a student from Siegen please visit my teaching page for details on my courses including possible topics for a bachelor or master thesis, or project group!
-
-
-
+<p>If you are a student from UIB interested in pursuing your degree/master thesis in any of my fields of research or in Real Analysis, Functional Analysis, Partial Differential Equations or Calculus of Variations, contact me by <a href="mailto:joan.duran@uib.es">mail</a>.</p>
 </div>
 
 <div class="projects">
