@@ -4,11 +4,11 @@
 "inproceedings":
   color: "#3EA055"
 
-"misc"
+"misc":
   color: nil
   
-"techreport"
+"techreport":
   color: "#3EA055"
   
-"unpublished"
+"unpublished":
   color: "#C37D25"
