@@ -20,7 +20,7 @@ This is a list of invited talks in conferences, workshops and seminars.
 
 {% for y in page.years %}
   <h5 class="year">{{y}}</h5>
-  {% bibliography -f talks @*[year={{y}}]* %}
+  {% bibliography -f talks -q @*[year={{y}}]* %}
 {% endfor %}
 
 </div>
