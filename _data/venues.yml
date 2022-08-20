@@ -3,12 +3,12 @@
 
 "inproceedings":
   color: "#3EA055"
-
-"misc":
-  color: nil
   
-"techreport":
+"misc":
   color: "#3EA055"
   
-"unpublished":
+"techreport":
   color: "#C37D25"
+
+"unpublished":
+  color: "#B51E3F"
