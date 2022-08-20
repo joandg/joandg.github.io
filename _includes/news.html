@@ -1,5 +1,5 @@
           
-          <div class="news" style="text-align: justify">
+          <div class="news">
             <h2>News</h2>
             {% if site.news != blank -%} 
             {%- assign news_size = site.news | size -%}
@@ -16,7 +16,7 @@
                   <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
                   <td>
                     {% if item.inline -%} 
-                      {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+                      {{ item.content | text-align: justify | remove: '<p>' | remove: '</p>' | emojify }}
                     {%- else -%} 
                       <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
                     {%- endif %} 
