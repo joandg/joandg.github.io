@@ -135,7 +135,7 @@
             {%- capture entryyear -%}{{ " " }}{{entry.year}}{%- endcapture -%}
             {%- endif -%}
           {%- elsif entry.type == "misc" -%}
-                {%- capture entrytype -%} {{entry.address}}<br> {{entry.date}} {%- endcapture -%}
+                {%- capture entrytype -%} <em>{{entry.series}}</em>, {{entry.address}}<br> {{entry.date}} {%- endcapture -%}
           {%- else -%}
           {%- capture entrytype -%}{%- endcapture -%}
           {%- endif -%}
