@@ -9,7 +9,7 @@ nav_order: 5
 # selected_talks: false # includes a list of talks marked as "selected={true}"
 ---
 <div class="publications">
-<p> This is a list of invited talks</p>
+<p> This is a list of invited talks in conferences, workshops and seminars.</p>
 
 {% if page.selected_papers %}
   {% include selected_papers.html %}
