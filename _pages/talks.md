@@ -8,10 +8,7 @@ nav: true
 nav_order: 5
 # selected_talks: false # includes a list of talks marked as "selected={true}"
 ---
-
-
 <div class="publications">
-
 <p> This is a list of invited talks</p>
 
 {% if page.selected_papers %}
