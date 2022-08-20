@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2021-11-25
+date: 2021-11-08
 inline: true
 ---
-I recieved a positive evaluation from [ANECA](http://www.aneca.es/eng) (Spanish National Agency for Quality Assessment and Accreditation) as Associate Professor (<i>Profesor Titular de Universidad</i>) for public universities
+
+I attended the [New Bridges between Mathematics and Data Science](http://nbmds.uva.es/) workshop, held in Valladolid.

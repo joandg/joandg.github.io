@@ -1,8 +1,6 @@
 ---
 layout: post
-date: 2022-06-20
+date: 2021-11-25
 inline: true
 ---
-
-Conference paper <i>What if image self-similarity can be better exploited in data fidelity terms?</i> <a href="#PereiraNavarroDuranICIP2022">xxx</a> accepted at [ICIP 2022](https://2022.ieeeicip.org/), to be held in Bordeaux. 
-
+I recieved a positive evaluation from [ANECA](http://www.aneca.es/eng) (Spanish National Agency for Quality Assessment and Accreditation) as Associate Professor (<i>Profesor Titular de Universidad</i>) for public universities.
