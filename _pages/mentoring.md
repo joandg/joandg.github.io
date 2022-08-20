@@ -9,7 +9,7 @@ nav_order: 4
 <div style="text-align: justify">
 <p>I supervise students in functional analysis, variational methods, convex optimization, partial differential equations and deep unfolding networks with applications in image processing, remote sensing and computer vision.</p>
 
-<p>Are you a BSc/MSc/PhD student looking for a research internship or a student at <a href="http://uib.eu">UIB</a> interested in pursuing your degree/master thesis with me? <a href="mailto:joan.duran@uib.es">Contact me</a> for possible topics!</p>
+<p>If you are a BSc/MSc/PhD student seeking a research internship or a student at <a href="http://uib.eu">UIB</a> looking for a possible topic for your degree/master thesis, <a href="mailto:joan.duran@uib.es">please contact me</a>!</p>
 
 <p> You can find below the list of <a href="#mentPhD">PhD</a>, <a href="#mentVisit">visiting</a> and <a href="#mentUndergrad">undergraduate</a> students I have supervised in research, and the <a href="#mentMSc">MSc</a> and <a href="#mentBSc">BSc</a> students whose thesis I have advised.</p>
 </div>
