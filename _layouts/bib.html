@@ -128,6 +128,8 @@
             {%- capture entrytype -%}<em>{{entry.journal}},</em>{%- endcapture -%}
           {%- elsif entry.type == "inproceedings" -%}
             {%- capture entrytype -%}In <em> {{entry.booktitle}},</em> {%- endcapture -%}
+          {%- elsif entry.type == "misc" -%}
+                {%- capture entrytype -%}In <em> {{entry.adress}},</em> <br> {{entry.date}} {%- endcapture -%}
           {%- else -%}
           {%- capture entrytype -%}{%- endcapture -%}
           {%- endif -%}
