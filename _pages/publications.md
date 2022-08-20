@@ -9,7 +9,6 @@ nav_order: 2
 ---
 An up-to-date list is available in my [Google Scholar](https://scholar.google.com/citations?user=IgKAJBwAAAAJ).
 
-<!-- _pages/publications.md -->
 <div class="publications">
 
 {%- for y in page.years %}
