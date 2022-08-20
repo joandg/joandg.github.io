@@ -3,3 +3,12 @@
 
 "inproceedings":
   color: "#3EA055"
+
+"misconf"
+  color: nil
+  
+"miscworkshop"
+  color: "#3EA055"
+  
+"miscseminar"
+  color: "#E6B57E"
