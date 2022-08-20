@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-06-20
+date: 2022-06-23
 inline: true
 ---
 
-Conference paper </i> <a href="#PereiraNavarroDuranICIP2022">What if image self-similarity can be better exploited in data fidelity terms?</a> accepted at [ICIP 2022](https://2022.ieeeicip.org/), to be held in Bordeaux. 
+New project <i>Bringing together modelization and machine learning techniques for mathematical multi-image processing and analysis</i> funded by the Ministerio de Ciencia e Innovación of the Spanish Government with 145.000€ for the period 2022-2025.
 

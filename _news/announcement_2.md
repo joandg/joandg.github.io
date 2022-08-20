@@ -1,6 +1,8 @@
 ---
 layout: post
-date: 2021-11-25
+date: 2022-02-21
 inline: true
 ---
-I recieved a positive evaluation from [ANECA](http://www.aneca.es/eng) (Spanish National Agency for Quality Assessment and Accreditation) as Associate Professor (<i>Profesor Titular de Universidad</i>) for public universities.
+
+New project <i> Xarxa interdisciplinària per a la detecció de residus a la Mediterrània mitjançant imatges satèl·lit</i> funded by the Conselleria de Fons Europeus, Universitat i Cultura of the Govern de les Illes Balears with 23.980€ for the period 2022-2023.
+

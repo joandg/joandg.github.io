@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-02-21
+date: 2022-06-20
 inline: true
 ---
 
-New project <i> Xarxa interdisciplinària per a la detecció de residus a la Mediterrània mitjançant imatges satèl·lit</i> funded by the Conselleria de Fons Europeus, Universitat i Cultura of the Govern de les Illes Balears with 23.980€ for the period 2022-2023.
+Conference paper <i><a href="#PereiraNavarroDuranICIP2022">What if image self-similarity can be better exploited in data fidelity terms?</a></i> accepted at [ICIP 2022](https://2022.ieeeicip.org/), to be held in Bordeaux. 
 
