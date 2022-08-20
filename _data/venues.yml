@@ -4,11 +4,11 @@
 "inproceedings":
   color: "#3EA055"
 
-"misconf"
+"misc"
   color: nil
   
-"miscworkshop"
+"techreport"
   color: "#3EA055"
   
-"miscseminar"
-  color: "#E6B57E"
+"unpublished"
+  color: "#C37D25"

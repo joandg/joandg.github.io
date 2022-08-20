@@ -134,14 +134,14 @@
             {%- if entry.year -%}
             {%- capture entryyear -%}{{ " " }}{{entry.year}}{%- endcapture -%}
             {%- endif -%}
-          {%- elsif entry.type == "miscconf" -%}
+          {%- elsif entry.type == "misc" -%}
                 {%- capture entrytype -%} {{entry.address}}<br> {{entry.date}} {%- endcapture -%}
-          {%- elsif entry.type == "miscworkshop" -%}
+          {%- elsif entry.type == "techreport" -%}
                 {%- capture entrytype -%} {{entry.address}}<br> {{entry.date}} {%- endcapture -%}
-          {%- elsif entry.type == "miscseminar" -%}
+          {%- elsif entry.type == "unpublished" -%}
                 {%- capture entrytype -%} {{entry.address}}<br> {{entry.date}} {%- endcapture -%}
           {%- else -%}
-          {%- capture entrytype -%}{%- endcapture -%}
+            {%- capture entrytype -%}{%- endcapture -%}
           {%- endif -%}
 <!--          {%- if entry.series -%}-->
 <!--          {%- capture entryseries -%}{{entry.series}}{%- endcapture -%}-->
