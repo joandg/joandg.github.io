@@ -29,7 +29,29 @@
 %% website = {}, Adds a "Website" button redirecting to the specified link
 %% arxiv = {}, Adds a link to the Arxiv website (Note: only add the arxiv identifier here - the link is generated automatically)
 
+@inproceedings{TomasMifdalIGARSS2023,
+    selected = {true},
+    title = {End-to-end shallow network for variational pansharpening},
+    author = {Tom{\'a}s-Cruz, M. and Mifdal, J. and Coll, B. and Duran, J.},
+    booktitle = {Proceedings of the IEEE International Geoscience and Remote Sensing Symposium (IGARSS)},
+    address = {Pasadena, California},
+    year = {2023},
+    abbr = {IGARSS},
+    bibtex_show = {true},
+    abstract = {Pansharpening aims to fuse the geometry of a high-resolution panchromatic image with the color information of a low-resolution multispectral image to generate a high-resolution multispectral image. Classical variational methods are more interpretable and flexible than pure deep learning approaches, but their performance is limited by the use of rigid priors. In this paper, we efficiently combine both techniques by introducing a shallow residual network to learn the regularization term of a variational pansharpening model. The proposed energy includes the classical observation model for the multispectral data and a constraint to preserve the geometry encoded in the panchromatic. The experiments demonstrate that our method achieves state-of-the-art results.}
+}
 
+@inproceedings{MifdalTomasCVPR2023,
+    selected = {true},
+    title = {Deep unfolding for hypersharpening using a high-frequency injection module},
+    author = {Mifdal, and Tom{\'a}s-Cruz, M. J. and Sebastianelli, A. and Coll, B. and Duran, J.},
+    booktitle = {Proceedings of the IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), Earthvision Workshop},
+    address = {Vancouver, Canada},
+    year = {2023},
+    abbr = {CVPR},
+    bibtex_show = {true},
+    abstract = {The fusion of multi-source data with different spatial and spectral resolutions is a crucial task in many remote sensing and computer vision applications. Model-based fusion methods are more interpretable and flexible than pure data-driven learning networks, however, their performance depends greatly on the established fusion model and the hand-crafted prior. In this work, we propose an end-to-end trainable model-based network for hyperspectral and panchromatic image fusion. We introduce an energy functional that takes into account classical observation models and incorporates a high-frequency details injection constraint. The resulting optimization function is solved by a forward-backward splitting algorithm and unfolded into a deep-learning framework that uses two modules trained in parallel to ensure both data observation fitting and constraint compliance. Extensive experiments are conducted on the remote-sensing hyperspectral PRISMA dataset and on the CAVE dataset, proving the superiority of the proposed deep unfolding network both qualitatively and quantitatively.}
+}
 
 @inproceedings{PereiraNavarroDuranICIP2022,
     selected = {true},
@@ -39,12 +61,13 @@
     address = {Bordeaux, France},
     year = {2022},
     abbr = {ICIP},
+    html = {https://ieeexplore.ieee.org/abstract/document/9897904},
     bibtex_show = {true},
     abstract = {In this work, we introduce a novel variational model for image restoration. In particular, we study the suitability of exploit- ing self-similarity of natural images in the fidelity term. Tra- ditionally, this cue has been used for the regularization term, promoting to align similarities in the degraded image with similarities in the restored one. In contrast, our proposed non- local data-fidelity term penalizes deviations of patches after having suffered from the degradation process if they are sim- ilar in the degraded image. Experiments on super-resolution, denoising and depth filtering show the competitiveness of this new formulation with respect to traditional nonlocal regular- ization terms and recent learning-based methods.}
 }
 
 @article{MifdalCollFromentDuranMDPI2021,
-    selected = {true},
+    selected = {false},
     title = {Variational fusion of hyperspectral data by non-local filtering},
     author = {Mifdal, J. and Coll, B. and Froment, J. and Duran, J.},
     journal ={Mathematics},
