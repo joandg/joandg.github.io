@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Tenure-track Associate Professor of Applied Mathematics <br> Department of Mathematics and Computer Science, <a href='https://www.uib.eu/'>University of the Balearic Islands</a>
+subtitle: Associate Professor of Applied Mathematics <br> Department of Mathematics and Computer Science, <a href='https://www.uib.eu/'>University of the Balearic Islands</a>
 
 profile:
   align: right

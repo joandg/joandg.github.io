@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-04-03
+date: 2023-03-28
 inline: true
 ---
-Conference paper <i><a href="#TomasMifdalIGARSS2023">End-to-end shallow network for variational pansharpening</a></i> accepted at [IGARSS 2023](https://2023.ieeeigarss.org/), to be held in Pasadena.
+I got a permanent position as Associate Professor (<i>Profesor Titular de Universidad</i>) of Applied Mathematics in the Department of Mathematics and Computer Science at the University of the Balearic Islands.

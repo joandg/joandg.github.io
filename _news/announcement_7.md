@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-04-04
+date: 2023-04-03
 inline: true
 ---
-Conference paper <i><a href="#MifdalTomasCVPR2023">Deep unfolding for hypersharpening using a high-frequency injection module</a></i> accepted at [CVPR Earthvision Workshop 2023](https://www.grss-ieee.org/events/earthvision-2023/), to be held in Vancouver.
+Conference paper <i><a href="#TomasMifdalIGARSS2023">End-to-end shallow network for variational pansharpening</a></i> accepted at [IGARSS 2023](https://2023.ieeeigarss.org/), to be held in Pasadena.
