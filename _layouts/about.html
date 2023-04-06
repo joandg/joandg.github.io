@@ -66,8 +66,10 @@ layout: default
         {% endif %}
 
         {% if page.news -%}
+        <div style="margin-top:5px;" "margin-bottom:5px;">
         <!-- News -->
         {%- include news.html %}
+        </div>
         {%- endif %}
         {% if page.selected_papers -%}
         <!-- Selected papers -->
