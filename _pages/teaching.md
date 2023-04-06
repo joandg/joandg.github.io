@@ -14,9 +14,9 @@ This is a list of all courses I have teached at the <a href="https://uib.eu">Uni
 <h5 class="category">BSc in Mathematics</h5>
 </div>
 
-* 2022 - present $$\mid$$ [Advanced Mathematical Analysis](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20585/index.html) $$\mid$$ 4th course
-* 2021 - present $$\mid$$ [Fundamentals of Mathematics](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20572/index.html) $$\mid$$ 1st course
 * 2019 - present $$\mid$$ [Partial Differential Equations](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20327/index.html) $$\mid$$ 3rd course
+* 2021 - present $$\mid$$ [Fundamentals of Mathematics](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20572/index.html) $$\mid$$ 1st course
+* 2022 - 2023 $$\mid$$ [Advanced Mathematical Analysis](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20585/index.html) $$\mid$$ 4th course
 * 2018 - 2022 $$\mid$$ [Mathematical Analysis II](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20574/index.html) $$\mid$$ 1st course
 * 2020 - 2021 $$\mid$$ [Affine and Metric Geometry](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/20318/index.html) $$\mid$$ 2nd course
 * 2018 - 2019 $$\mid$$ [Advanced Models: Mathematical Information Modelling](https://www.uib.eu/Learn/estudis-de-grau/grau/matematiques/GMA2-P/assignatures.html) $$\mid$$ 4th course
