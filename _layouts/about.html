@@ -71,10 +71,14 @@ layout: default
         {%- include news.html %}
         </div>
         {%- endif %}
+        
         {% if page.selected_papers -%}
+        <div style="margin-top:5px;" "margin-bottom:5px;">
         <!-- Selected papers -->
         {%- include selected_papers.html %}
+        </div>
         {%- endif %}
+        
         <!--          {%- if page.social %}-->
         <!--          <!-- Social -->
         <!--          <div class="social">-->
