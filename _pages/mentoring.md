@@ -27,7 +27,7 @@ nav_order: 4
 </style>
 <table class="tg">
   <tr>
-    <td class="tg-1" rowspan="4">2023 - present</td>
+    <td class="tg-1" rowspan="5">2023 - present</td>
     <td class="tg-2">M. Francesc Alcover</td>
   </tr>
   <tr>
