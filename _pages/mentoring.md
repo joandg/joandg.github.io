@@ -27,7 +27,7 @@ nav_order: 4
 </style>
 <table class="tg">
   <tr>
-    <td class="tg-1" rowspan="5">2023 - present</td>
+    <td class="tg-1" rowspan="4">2023 - present</td>
     <td class="tg-2">M. Francesc Alcover</td>
   </tr>
   <tr>
@@ -37,11 +37,11 @@ nav_order: 4
     <td class="tg-2"><a href="https://uib.eu">University of the Balearic Islands</a></td>
   </tr>
   <tr>
-    <td class="tg-22">Co-advised with Dr. Catalina Sbert</td>
+    <td class="tg-2">Co-advised with Dr. Catalina Sbert</td>
   </tr>
   <tr>
-    <td class="tg-12" rowspan="3">2023 - present</td>
-    <td class="tg-22">Daniel Torres</td>
+    <td class="tg-1" rowspan="3">2023 - present</td>
+    <td class="tg-2">Daniel Torres</td>
   </tr>
   <tr>
     <td class="tg-2"><i>Combining variational models and deep learning for image processing problems</i></td>
@@ -50,8 +50,8 @@ nav_order: 4
     <td class="tg-2"><a href="https://uib.eu">University of the Balearic Islands</a></td>
   </tr>
   <tr>
-    <td class="tg-12" rowspan="4">2021 - present</td>
-    <td class="tg-22">Iván Pereira-Sánchez</td>
+    <td class="tg-1" rowspan="4">2021 - present</td>
+    <td class="tg-2">Iván Pereira-Sánchez</td>
   </tr>
   <tr>
     <td class="tg-2"><i>Deep variational learning for multi-image super-resolution</i></td>
