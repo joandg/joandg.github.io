@@ -41,7 +41,7 @@ nav_order: 4
   </tr>
   <tr>
     <td class="tg-12" rowspan="4">2023 - present</td>
-    <td class="tg-2">Daniel Torres</td>
+    <td class="tg-22">Daniel Torres</td>
   </tr>
   <tr>
     <td class="tg-2"><i>Combining variational models and deep learning for image processing problems</i></td>
@@ -51,7 +51,7 @@ nav_order: 4
   </tr>
   <tr>
     <td class="tg-12" rowspan="4">2021 - present</td>
-    <td class="tg-2">Iván Pereira-Sánchez</td>
+    <td class="tg-22">Iván Pereira-Sánchez</td>
   </tr>
   <tr>
     <td class="tg-2"><i>Deep variational learning for multi-image super-resolution</i></td>
@@ -181,7 +181,6 @@ nav_order: 4
 <tr>
   <td class="tg-2">Co-advised with Dr. Julia Navarro</td>
 </tr>
-<tr>
 <tr>
   <td class="tg-12" rowspan="4"> 2022</td>
   <td class="tg-2">Miquel Lladó</td>
