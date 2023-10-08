@@ -27,7 +27,7 @@ nav_order: 4
 </style>
 <table class="tg">
   <tr>
-    <td class="tg-1" rowspan="4">2023 - present</td>
+    <td class="tg-1" rowspan="3">2023 - present</td>
     <td class="tg-2">M. Francesc Alcover</td>
   </tr>
   <tr>
@@ -40,7 +40,7 @@ nav_order: 4
     <td class="tg-2">Co-advised with Dr. Catalina Sbert</td>
   </tr>
   <tr>
-    <td class="tg-12" rowspan="4">2023 - present</td>
+    <td class="tg-12" rowspan="3">2023 - present</td>
     <td class="tg-22">Daniel Torres</td>
   </tr>
   <tr>
@@ -50,7 +50,7 @@ nav_order: 4
     <td class="tg-2"><a href="https://uib.eu">University of the Balearic Islands</a></td>
   </tr>
   <tr>
-    <td class="tg-12" rowspan="4">2021 - present</td>
+    <td class="tg-12" rowspan="3">2021 - present</td>
     <td class="tg-22">Iván Pereira-Sánchez</td>
   </tr>
   <tr>
@@ -150,7 +150,7 @@ nav_order: 4
 
 <table class="tg">
   <tr>
-    <td class="tg-1" rowspan="4"> 2020</td>
+    <td class="tg-1" rowspan="3"> 2020</td>
     <td class="tg-2">Iván Pereira</td>
   </tr>
   <tr>
