@@ -150,7 +150,7 @@ nav_order: 4
 
 <table class="tg">
   <tr>
-    <td class="tg-1" rowspan="3"> 2020</td>
+    <td class="tg-1" rowspan="4"> 2020</td>
     <td class="tg-2">Iván Pereira</td>
   </tr>
   <tr>
