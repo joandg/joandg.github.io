@@ -169,7 +169,7 @@ nav_order: 4
 
 <table class="tg">
 <tr>
-  <td class="tg-1" rowspan="4"> 2023</td>
+  <td class="tg-1" rowspan="3"> 2023</td>
   <td class="tg-2">Josep Matemales</td>
 </tr>
 <tr>
@@ -182,7 +182,7 @@ nav_order: 4
   <td class="tg-2">Co-advised with Dr. Julia Navarro</td>
 </tr>
 <tr>
-  <td class="tg-12" rowspan="4"> 2022</td>
+  <td class="tg-12" rowspan="3"> 2022</td>
   <td class="tg-2">Miquel Lladó</td>
 </tr>
 <tr>
@@ -192,7 +192,7 @@ nav_order: 4
   <td class="tg-2">BSc in Mathematics at <a href="https://uib.eu">University of the Balearic Islands</a></td>
 </tr>
   <tr>
-    <td class="tg-12" rowspan="4"> 2022</td>
+    <td class="tg-12" rowspan="3"> 2022</td>
     <td class="tg-2">M. Francesc Alcover</td>
   </tr>
   <tr>
@@ -205,7 +205,7 @@ nav_order: 4
     <td class="tg-2">Co-advised with Dr. Catalina Sbert</td>
   </tr>
   <tr>
-    <td class="tg-12" rowspan="4">2022</td>
+    <td class="tg-12" rowspan="3">2022</td>
     <td class="tg-22">Daniel Torres</td>
   </tr>
   <tr>
