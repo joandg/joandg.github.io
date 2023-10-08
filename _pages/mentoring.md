@@ -37,7 +37,7 @@ nav_order: 4
     <td class="tg-2"><a href="https://uib.eu">University of the Balearic Islands</a></td>
   </tr>
   <tr>
-    <td class="tg-2">Co-advised with Dr. Catalina Sbert</td>
+    <td class="tg-22">Co-advised with Dr. Catalina Sbert</td>
   </tr>
   <tr>
     <td class="tg-12" rowspan="3">2023 - present</td>
