@@ -27,6 +27,29 @@ nav_order: 4
 </style>
 <table class="tg">
   <tr>
+    <td class="tg-1" rowspan="4">2023 - present</td>
+    <td class="tg-2">M. Francesc Alcover</td>
+  </tr>
+  <tr>
+    <td class="tg-2"><i>Nonlocal theory for variational problems and partial differential equations </i></td>
+  </tr>
+  <tr>
+    <td class="tg-2"><a href="https://uib.eu">University of the Balearic Islands</a></td>
+  </tr>
+  <tr>
+    <td class="tg-2">Co-advised with Dr. Catalina Sbert</td>
+  </tr>
+  <tr>
+    <td class="tg-1" rowspan="4">2023 - present</td>
+    <td class="tg-2">Daniel Torres</td>
+  </tr>
+  <tr>
+    <td class="tg-2"><i>Combining variational models and deep learning for image processing problems</i></td>
+  </tr>
+  <tr>
+    <td class="tg-2"><a href="https://uib.eu">University of the Balearic Islands</a></td>
+  </tr>
+  <tr>
     <td class="tg-1" rowspan="4">2021 - present</td>
     <td class="tg-2">Iván Pereira-Sánchez</td>
   </tr>
@@ -145,6 +168,30 @@ nav_order: 4
 <h5 class="category" id="mentBSc">BSc thesis</h5>
 
 <table class="tg">
+<tr>
+  <td class="tg-1" rowspan="4"> 2023</td>
+  <td class="tg-2">Josep Matemales</td>
+</tr>
+<tr>
+  <td class="tg-2"><i>Mètodes variacionals amb aprenentatge profund per a la fusió d'imatges satèl·lit</i></td>
+</tr>
+<tr>
+  <td class="tg-2">BSc in Mathematics at <a href="https://uib.eu">University of the Balearic Islands</a></td>
+</tr>
+<tr>
+  <td class="tg-2">Co-advised with Dr. Julia Navarro</td>
+</tr>
+<tr>
+<tr>
+  <td class="tg-1" rowspan="4"> 2022</td>
+  <td class="tg-2">Miquel Lladó</td>
+</tr>
+<tr>
+  <td class="tg-2"><i>Càlcul variacional en espais de Sobolev i extensions al principi de Dirichlet no-local</i></td>
+</tr>
+<tr>
+  <td class="tg-2">BSc in Mathematics at <a href="https://uib.eu">University of the Balearic Islands</a></td>
+</tr>
   <tr>
     <td class="tg-1" rowspan="4"> 2022</td>
     <td class="tg-2">M. Francesc Alcover</td>
