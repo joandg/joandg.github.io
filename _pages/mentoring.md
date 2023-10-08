@@ -40,7 +40,7 @@ nav_order: 4
     <td class="tg-2">Co-advised with Dr. Catalina Sbert</td>
   </tr>
   <tr>
-    <td class="tg-12" rowspan="4">2023 - present</td>
+    <td class="tg-12" rowspan="3">2023 - present</td>
     <td class="tg-22">Daniel Torres</td>
   </tr>
   <tr>
