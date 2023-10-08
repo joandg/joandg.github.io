@@ -183,7 +183,7 @@ nav_order: 4
 </tr>
 <tr>
   <td class="tg-12" rowspan="3"> 2022</td>
-  <td class="tg-2">Miquel Lladó</td>
+  <td class="tg-22">Miquel Lladó</td>
 </tr>
 <tr>
   <td class="tg-2"><i>Càlcul variacional en espais de Sobolev i extensions al principi de Dirichlet no-local</i></td>
@@ -193,7 +193,7 @@ nav_order: 4
 </tr>
   <tr>
     <td class="tg-12" rowspan="3"> 2022</td>
-    <td class="tg-2">M. Francesc Alcover</td>
+    <td class="tg-22">M. Francesc Alcover</td>
   </tr>
   <tr>
     <td class="tg-2"><i>Classical functional analysis and a new nonlocal BV space</i></td>
