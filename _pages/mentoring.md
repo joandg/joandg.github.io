@@ -196,7 +196,7 @@ nav_order: 4
     <td class="tg-22">M. Francesc Alcover</td>
   </tr>
   <tr>
-    <td class="tg-2"><i>Classical functional analysis and a new nonlocal BV space</i></td>
+    <td class="tg-2"><i>Classical functional analysis and a new nonlocal BV space</i> (with honors)</td>
   </tr>
   <tr>
     <td class="tg-2">BSc in Mathematics at <a href="https://uib.eu">University of the Balearic Islands</a></td>
@@ -261,7 +261,7 @@ nav_order: 4
 <td class="tg-22"><a href="https://www.researchgate.net/scientific-contributions/Ramon-Oliver-Bonafoux-2191070240">Ramon Oliver-Bonafoux</a></td>
 </tr>
 <tr>
-<td class="tg-2"><i>Convex variational methods and optimization techniques for image processing</i></td>
+<td class="tg-2"><i>Convex variational methods and optimization techniques for image processing</i> (with honors)</td>
 </tr>
 <tr>
 <td class="tg-2">BSc in Mathematics at <a href="https://uib.eu">University of the Balearic Islands</a></td>
