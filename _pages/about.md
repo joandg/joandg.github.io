@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Associate Professor of Applied Mathematics <br> Department of Mathematics and Computer Science, <a href='https://www.uib.eu/'>University of the Balearic Islands</a>
+subtitle: Associate Professor of Applied Mathematics <br> Department of Mathematics and Computer Science <br> <a href='http://iac3.uib.es/'>Institute of Applied Computing and Community Code (IAC3)</a> <br> <a href='https://www.uib.eu/'>University of the Balearic Islands</a>
 
 profile:
   align: right
@@ -26,7 +26,7 @@ I am an associate professor of Applied Mathematics in the Department of Mathemat
 
 I obtained my doctoral degree in 2016 from UIB with a thesis on variational models for ill-posed inverse problems in digital imaging. I have been a visiting researcher in the groups led by [Prof. Daniel Cremers](http://vision.in.tum.de/) at the Technical University of Munich, [Prof. Jean-Michel Morel](http://sites.google.com/site/jeanmichelmorelcmlaenscachan/) at Centre de Mathématiques et Leurs Applications at ENS Paris-Saclay, and [Prof. Joan Bruna](http://cims.nyu.edu/~bruna/) at the Courant Institute of Mathematical Sciences and the Center for Data Science at New York University.
 
-My main research interests include functional analysis, calculus of variations, convex optimization and deep learning with applications in image processing, satellite imaging, and computer vision. I am also interested in exploring the frontiers between mathematical modelling and learning based architectures for solving inverse problems.  
+My main research interests include nonlinear analysis, calculus of variations, partial differential equations, convex optimization, and deep learning with applications in image processing, satellite imaging, and computer vision.
 
 I have had a long-term collaboration with the french space agency [CNES](http://cnes.fr/en) by contributing to the image restoration chain of the Earth observation satellite [Pleiades](http://pleiades.cnes.fr/en/PLEIADES/index.htm). In collaboration with the [European Space Agency (ESA)](http://www.esa.int) and members of the research team led by [Prof. Salud Deudero](http://www.ba.ieo.es/es/personal/12-contacts/15-salud-deudero-company) in the [Oceanographic Centre of the Balearic Islands](http://www.ba.ieo.es), I am currently working on deep unfolding architectures for the fusion of remote sensing data and the automatic detection of floating objects in the Mediterranean Sea.
 
