@@ -173,7 +173,7 @@ nav_order: 4
   <td class="tg-2">Josep Matemales</td>
 </tr>
 <tr>
-  <td class="tg-2"><i>Mètodes variacionals amb aprenentatge profund per a la fusió d'imatges satèl·lit</i></td>
+  <td class="tg-2"><i>Mètodes variacionals amb aprenentatge profund per a la fusió d'imatges satèl·lit</i> (with honors)</td>
 </tr>
 <tr>
   <td class="tg-2">BSc in Mathematics at <a href="https://uib.eu">University of the Balearic Islands</a></td>

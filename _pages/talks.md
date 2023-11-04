@@ -1,7 +1,7 @@
 ---
-layout: page
-permalink: /Talks/
-title: Talks
+#layout: page
+#permalink: /Talks/
+#title: Talks
 # description:
 years: [2018,2017,2015,2014,2013,2012]
 nav: true
