@@ -4,8 +4,8 @@
 #title: Talks
 # description:
 years: [2018,2017,2015,2014,2013,2012]
-nav: true
-nav_order: 5
+nav: false
+nav_order: 0
 # selected_talks: false # includes a list of talks marked as "selected={true}"
 ---
 
