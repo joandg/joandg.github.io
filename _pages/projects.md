@@ -121,7 +121,7 @@ nav_order: 3
     <td class="tg-2">Principal investigator: Antoni Buades</td>
   </tr>
   <tr>
-    <td class="tg-2">Funding institution: Centre National d’Études Spatiales (France)</td>
+    <td class="tg-2">Funding institution: <a href="https://cnes.fr/en">Centre National d’Études Spatiales</a> (France)</td>
   </tr>
   <tr>
     <td class="tg-2">Funded amount: 60.000€ </td>
@@ -153,7 +153,7 @@ nav_order: 3
   <td class="tg-2">Principal investigator: Bartomeu Coll</td>
 </tr>
 <tr>
-  <td class="tg-2">Funding institution: Centre National d’Études Spatiales (France)</td>
+  <td class="tg-2">Funding institution: <a href="https://cnes.fr/en">Centre National d’Études Spatiales</a> (France)</td>
 </tr>
 <tr>
   <td class="tg-2">Funded amount: 60.000€ </td>
@@ -169,7 +169,7 @@ nav_order: 3
   <td class="tg-2">Principal investigator: Bartomeu Coll</td>
 </tr>
 <tr>
-  <td class="tg-2">Funding institution: Centre National d’Études Spatiales (France)</td>
+  <td class="tg-2">Funding institution: <a href="https://cnes.fr/en">Centre National d’Études Spatiales</a> (France)</td>
 </tr>
 <tr>
   <td class="tg-2">Funded amount: 80.000€ </td>
@@ -201,7 +201,7 @@ nav_order: 3
   <td class="tg-2">Principal investigator: Bartomeu Coll</td>
 </tr>
 <tr>
-  <td class="tg-2">Funding institution: Centre National d’Études Spatiales (France)</td>
+  <td class="tg-2">Funding institution: <a href="https://cnes.fr/en">Centre National d’Études Spatiales</a> (France)</td>
 </tr>
 <tr>
   <td class="tg-2">Funded amount: 70.000€ </td>
