@@ -60,5 +60,87 @@ nav_order: 3
 </table>
 
 
-
+<h5 class="category" id="partProj">Past projects</h5>
+<table class="tg">
+  <tr>
+    <td class="tg-1" rowspan="5">2022 - 2023</td>
+    <td class="tg-2"><i>Xarxa interdisciplinària per a la detecció de residus a la Mediterrània mitjançant imatges satèl·lit</i></td>
+  </tr>
+  <tr>
+    <td class="tg-2">Reference: AP-2021-023</td>
+  </tr>
+  <tr>
+    <td class="tg-2">Principal investigator: <u>Joan Duran</u></td>
+  </tr>
+  <tr>
+    <td class="tg-2">Funding institution: Conselleria de Fons Europeus, Universitat i Cultura (Illes Balears)</td>
+  </tr>
+  <tr>
+    <td class="tg-2">Funded amount: 23.980€ </td>
+  </tr>
+  <tr>
+    <td class="tg-1" rowspan="5">2020 - 2023</td>
+    <td class="tg-2"><i>Cámaras submarinas como sensores biológicos: Deep learning en ecología marina</i></td>
+  </tr>
+  <tr>
+    <td class="tg-2">Reference: PRD2018/26</td>
+  </tr>
+  <tr>
+    <td class="tg-2">Principal investigators: <a href="https://imedea.uib-csic.es/el-instituto/personal/?staff_id=652">Ignacio A. Catalán</a> and José Luis Lisani</td>
+  </tr>
+  <tr>
+    <td class="tg-2">Funding institution: Conselleria d’Innovació, Recera i Turisme (Illes Balears)</td>
+  </tr>
+  <tr>
+    <td class="tg-2">Funded amount: 95.214€ </td>
+  </tr>
+  <tr>
+    <td class="tg-1" rowspan="5">2018 - 2020</td>
+    <td class="tg-2"><i> Cadena completa de procesamiento multi-imagen y video</i></td>
+  </tr>
+  <tr>
+    <td class="tg-2">Reference: TIN2017-85572-P</td>
+  </tr>
+  <tr>
+    <td class="tg-2">Principal investigator: Antoni Buades</td>
+  </tr>
+  <tr>
+    <td class="tg-2">Funding institution: Ministerio de Economía, Industria y Competitividad (Spain)</td>
+  </tr>
+  <tr>
+    <td class="tg-2">Funded amount: 55.176€ </td>
+  </tr>
+  <tr>
+  <td class="tg-1" rowspan="5">2015 - 2017</td>
+  <td class="tg-2"><i> Procesamiento de imágenes digitales y aplicaciones</i></td>
+</tr>
+<tr>
+  <td class="tg-2">Reference:  TIN2014-53772-R</td>
+</tr>
+<tr>
+  <td class="tg-2">Principal investigators: Bartomeu Coll and Antoni Buades</td>
+</tr>
+<tr>
+  <td class="tg-2">Funding institution: Ministerio de Economía y Competitividad (Spain)</td>
+</tr>
+<tr>
+  <td class="tg-2">Funded amount: 52.151€ </td>
+</tr>
+<tr>
+<td class="tg-1" rowspan="5">2012 - 2015</td>
+<td class="tg-2"><i> Restauración y análisis matemático de imágenes</i></td>
+</tr>
+<tr>
+<td class="tg-2">Reference:  TIN2011-27539</td>
+</tr>
+<tr>
+<td class="tg-2">Principal investigator: Bartomeu Coll</td>
+</tr>
+<tr>
+<td class="tg-2">Funding institution: Ministerio de Ciencia e Innovación (Spain)</td>
+</tr>
+<tr>
+<td class="tg-2">Funded amount: 41.745€ </td>
+</tr>
+</table>
 </div>
