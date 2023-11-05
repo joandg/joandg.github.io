@@ -123,8 +123,8 @@ nav_order: 4
 
 <table class="tg">
   <tr>
-    <td class="tg-1" rowspan="3"> 06/2020 - 08/2020</td>
-    <td class="tg-2">Bernat Ramis</td>
+    <td class="tg-12" rowspan="3"> 06/2020 - 08/2020</td>
+    <td class="tg-22">Bernat Ramis</td>
   </tr>
   <tr>
     <td class="tg-2"><i>Variational video deblurring</i></td>
@@ -180,8 +180,8 @@ nav_order: 4
   <td class="tg-2">Co-advised with Dr. Julia Navarro</td>
 </tr>
 <tr>
-  <td class="tg-12" rowspan="3"> 2023</td>
-  <td class="tg-22">Miquel Lladó</td>
+  <td class="tg-1" rowspan="3"> 2023</td>
+  <td class="tg-2">Miquel Lladó</td>
 </tr>
 <tr>
   <td class="tg-2"><i>Càlcul variacional en espais de Sobolev i extensions al principi de Dirichlet no-local</i></td>
@@ -190,8 +190,8 @@ nav_order: 4
   <td class="tg-2">BSc in Mathematics at <a href="https://uib.eu">University of the Balearic Islands</a></td>
 </tr>
   <tr>
-    <td class="tg-12" rowspan="4"> 2022</td>
-    <td class="tg-22">M. Francesc Alcover</td>
+    <td class="tg-1" rowspan="4"> 2022</td>
+    <td class="tg-2">M. Francesc Alcover</td>
   </tr>
   <tr>
     <td class="tg-2"><i>Classical functional analysis and a new nonlocal BV space</i> (with honors)</td>
@@ -203,8 +203,8 @@ nav_order: 4
     <td class="tg-2">Co-advised with Dr. Catalina Sbert</td>
   </tr>
   <tr>
-    <td class="tg-12" rowspan="4">2022</td>
-    <td class="tg-22">Daniel Torres</td>
+    <td class="tg-1" rowspan="4">2022</td>
+    <td class="tg-2">Daniel Torres</td>
   </tr>
   <tr>
     <td class="tg-2"><i>Anàlisi i optimització convexa amb aplicacions al processament d'imatges</i></td>
@@ -216,8 +216,8 @@ nav_order: 4
   <td class="tg-2">Co-advised with Prof. Bartomeu Coll</td>
   </tr>
   <tr>
-    <td class="tg-12" rowspan="4">2022</td>
-    <td class="tg-22">Andreu Reviriego</td>
+    <td class="tg-1" rowspan="4">2022</td>
+    <td class="tg-2">Andreu Reviriego</td>
   </tr>
   <tr>
     <td class="tg-2"><i>Introducció a l'aprenentatge automàtic i als seus mètodes d'optimització</i></td>
@@ -229,8 +229,8 @@ nav_order: 4
   <td class="tg-2">Co-advised with Prof. Antoni Buades</td>
   </tr>
   <tr>
-  <td class="tg-12" rowspan="4">2021</td>
-  <td class="tg-22">Catalina V. Molina</td>
+  <td class="tg-1" rowspan="4">2021</td>
+  <td class="tg-2">Catalina V. Molina</td>
 </tr>
 <tr>
   <td class="tg-2"><i>Equacions en derivades parcials per al processament digital d'imatges</i></td>
@@ -242,8 +242,8 @@ nav_order: 4
 <td class="tg-2">Co-advised with Dr. Catalina Sbert</td>
 </tr>
 <tr>
-<td class="tg-12" rowspan="4">2021</td>
-<td class="tg-22">Joana Cáceres</td>
+<td class="tg-1" rowspan="4">2021</td>
+<td class="tg-2">Joana Cáceres</td>
 </tr>
 <tr>
 <td class="tg-2"><i>Análisis multivariante de datos para procesamiento de imágenes</i></td>
@@ -255,8 +255,8 @@ nav_order: 4
 <td class="tg-2">Co-advised with Dr. Catalina Vich</td>
 </tr>
 <tr>
-<td class="tg-12" rowspan="4">2018</td>
-<td class="tg-22"><a href="https://www.researchgate.net/scientific-contributions/Ramon-Oliver-Bonafoux-2191070240">Ramon Oliver-Bonafoux</a></td>
+<td class="tg-1" rowspan="4">2018</td>
+<td class="tg-2"><a href="https://www.researchgate.net/scientific-contributions/Ramon-Oliver-Bonafoux-2191070240">Ramon Oliver-Bonafoux</a></td>
 </tr>
 <tr>
 <td class="tg-2"><i>Convex variational methods and optimization techniques for image processing</i> (with honors)</td>

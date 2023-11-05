@@ -34,63 +34,34 @@ nav_order: 3
     <td class="tg-2">Principal investigators: <u>Joan Duran</u> and <a href="http://www.ba.ieo.es/en/personal/12-contacts/15-salud-deudero-company">Salud Deudero</a></td>
   </tr>
   <tr>
-    <td class="tg-2">Funding institutions: Ministerio de Ciencia e Innovación (Spaint) and The European Union NextGenerationEU </td>
+    <td class="tg-2">Funding institutions: Ministerio de Ciencia e Innovación (Spain) and the European Union NextGenerationEU/PRTR </td>
+  </tr>
+  <tr>
+    <td class="tg-2">Funded amount: 212.750€ </td>
+  </tr>
+  <tr>
+    <td class="tg-1" rowspan="5">2022 - 2025</td>
+    <td class="tg-2"><i> Bringing together modelization and machine learning techniques for mathematical
+    multi-image processing and analysis (MoMaLIP)</i></td>
+  </tr>
+  <tr>
+    <td class="tg-2">Reference: PID2021-125711OB-I00</td>
+  </tr>
+  <tr>
+    <td class="tg-2">Principal investigators: Antoni Buades and José Luis Lisani
+  </tr>
+  <tr>
+    <td class="tg-2">Funding institution: Ministerio de Ciencia e Innovación (Spain)</td>
+  </tr>
+  <tr>
+    <td class="tg-2">Funded amount: 145.000€ </td>
   </tr>
 </table>
 
-<h5 class="category" id="mentUndergrad">Undergraduate research students</h5>
+<h5 class="category" id="pastProj">Past Projects</h5>
 
 <table class="tg">
-  <tr>
-    <td class="tg-1" rowspan="3"> 09/2022 - 07/2023</td>
-    <td class="tg-2">Marc Tomás</td>
-  </tr>
-  <tr>
-    <td class="tg-2"><i>Deep unfolding networks for satellite image fusion</i></td>
-  </tr>
-  <tr>
-    <td class="tg-2">Student of the double BSc in Mathematics and Telematics Engineering at <a href="https://uib.eu">University of the Balearic Islands</a></td>
-  </tr>
-  <tr>
-    <td class="tg-12" rowspan="3">09/2021 - 07/2022</td>
-    <td class="tg-22">M. Francesc Alcover</td>
-  </tr>
-  <tr>
-    <td class="tg-2"><i>Nonlocal vector calculus with applications to image processing</i></td>
-  </tr>
-  <tr>
-  <td class="tg-2">Student of the BSc in Mathematics at <a href="https://uib.eu">University of the Balearic Islands</a></td>
-  </tr>
-  <tr>
-    <td class="tg-12" rowspan="3">09/2020 - 07/2021</td>
-    <td class="tg-22">Maria Mulet and Guillem Serra</td>
-  </tr>
-  <tr>
-    <td class="tg-2"><i>Introduction to graph neural networks</i></td>
-  </tr>
-  <tr>
-  <td class="tg-2">Students of the BSc in Mathematics at <a href="https://uib.eu">University of the Balearic Islands</a></td>
-  </tr>
-  <tr>
-    <td class="tg-12" rowspan="3">09/2020 - 07/2021</td>
-    <td class="tg-22">Cristian Comellas</td>
-  </tr>
-  <tr>
-    <td class="tg-2"><i>Deep neural networks for image decompression</i></td>
-  </tr>
-  <tr>
-    <td class="tg-2">Student of the BSc in Computer Engineering at <a href="https://uib.eu">University of the Balearic Islands</a></td>
-  </tr>
-  <tr>
-    <td class="tg-12" rowspan="3">09/2019 - 07/2020</td>
-    <td class="tg-22">Ginés Carreto and Martí Gelabert</td>
-  </tr>
-  <tr>
-    <td class="tg-2"><i>Deep neural networks for image denoising</i></td>
-  </tr>
-  <tr>
-  <td class="tg-2">Students of the BSc in Computer Engineering at <a href="https://uib.eu">University of the Balearic Islands</a></td>
-  </tr>
+  
 </table>
 
 
