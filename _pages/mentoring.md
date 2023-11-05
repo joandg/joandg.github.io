@@ -11,7 +11,7 @@ nav_order: 4
 
 <p>If you are a BSc/MSc/PhD student seeking a research internship or a student at <a href="http://uib.eu">UIB</a> looking for a possible topic for your degree/master thesis, please <a href="mailto:joan.duran@uib.es">contact me</a>!</p>
 
-<p> You can find below the list of <a href="#mentPhD">PhD</a>, <a href="#mentVisit">visiting</a> and <a href="#mentUndergrad">undergraduate</a> students I have supervised in research, and the <a href="#mentMSc">MSc</a> and <a href="#mentBSc">BSc</a> students whose thesis I have advised.</p>
+<p> You can find below the list of <a href="#mentPhD">PhD</a>, <a href="#mentUndergrad">undergraduate</a> and  <a href="#mentVisit">visiting</a> students I have supervised in research, and the <a href="#mentMSc">MSc</a> and <a href="#mentBSc">BSc</a> students whose thesis I have advised.</p>
 </div>
 
 <div class="projects">
@@ -63,32 +63,6 @@ nav_order: 4
     <td class="tg-2">Co-advised with Dr. Julia Navarro</td>
   </tr>
 </table>
-
-<h5 class="category" id="mentVisit">Visiting research students</h5>
-
-<table class="tg">
-  <tr>
-    <td class="tg-1" rowspan="3"> 06/2020 - 08/2020</td>
-    <td class="tg-2">Bernat Ramis</td>
-  </tr>
-  <tr>
-    <td class="tg-2"><i>Variational video deblurring</i></td>
-  </tr>
-  <tr>
-    <td class="tg-2">Visiting BSc student from the <a href="https://www.upc.edu/en?set_language=en">Polytechnic University of Catalonia</a></td>
-  </tr>
-  <tr>
-    <td class="tg-12" rowspan="3">05/2019 - 07/2019</td>
-    <td class="tg-22"><a href="https://fr.linkedin.com/in/antoine-reynaert-80421a152/en">Antoine Reynaert</a></td>
-  </tr>
-  <tr>
-    <td class="tg-2"><i>Processing time optimization of variational optical flow</i></td>
-  </tr>
-  <tr>
-    <td class="tg-2">Visiting MSc student from the <a href="https://www.grenoble-inp.fr/en">Grenoble Institute of Technology</a></td>
-  </tr>
-</table>
-
 
 <h5 class="category" id="mentUndergrad">Undergraduate research students</h5>
 
@@ -145,6 +119,30 @@ nav_order: 4
   </tr>
 </table>
 
+<h5 class="category" id="mentVisit">Visiting research students</h5>
+
+<table class="tg">
+  <tr>
+    <td class="tg-1" rowspan="3"> 06/2020 - 08/2020</td>
+    <td class="tg-2">Bernat Ramis</td>
+  </tr>
+  <tr>
+    <td class="tg-2"><i>Variational video deblurring</i></td>
+  </tr>
+  <tr>
+    <td class="tg-2">Visiting BSc student from the <a href="https://www.upc.edu/en?set_language=en">Polytechnic University of Catalonia</a></td>
+  </tr>
+  <tr>
+    <td class="tg-12" rowspan="3">05/2019 - 07/2019</td>
+    <td class="tg-22"><a href="https://fr.linkedin.com/in/antoine-reynaert-80421a152/en">Antoine Reynaert</a></td>
+  </tr>
+  <tr>
+    <td class="tg-2"><i>Processing time optimization of variational optical flow</i></td>
+  </tr>
+  <tr>
+    <td class="tg-2">Visiting MSc student from the <a href="https://www.grenoble-inp.fr/en">Grenoble Institute of Technology</a></td>
+  </tr>
+</table>
 
 <h5 class="category" id="mentMSc">MSc thesis</h5>
 
@@ -182,7 +180,7 @@ nav_order: 4
   <td class="tg-2">Co-advised with Dr. Julia Navarro</td>
 </tr>
 <tr>
-  <td class="tg-12" rowspan="3"> 2022</td>
+  <td class="tg-12" rowspan="3"> 2023</td>
   <td class="tg-22">Miquel Lladó</td>
 </tr>
 <tr>

@@ -9,4 +9,18 @@ nav_order: 3
 horizontal: false
 ---
 
-Coming soon...
+<div style="text-align: justify">
+This is a list of research projects.
+</div>
+
+<div class="publications">
+{% if page.selected_papers %}
+  {% include selected_papers.html %}
+{% endif %}
+
+{% for y in page.years %}
+  <h5 class="year">{{y}}</h5>
+  {% bibliography -f talks -q @*[year={{y}}]* %}
+{% endfor %}
+
+</div>
