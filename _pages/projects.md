@@ -111,6 +111,22 @@ nav_order: 3
     <td class="tg-2">Funded amount: 55.176€ </td>
   </tr>
   <tr>
+    <td class="tg-1" rowspan="5">2016 - 2018</td>
+    <td class="tg-2"><i> Méthodes locale et globale rapides pour la stéréorestitution</i></td>
+  </tr>
+  <tr>
+    <td class="tg-2">Reference: R-S16/OT-0004-084</td>
+  </tr>
+  <tr>
+    <td class="tg-2">Principal investigator: Antoni Buades</td>
+  </tr>
+  <tr>
+    <td class="tg-2">Funding institution: Centre National d’Études Spatiales (France)</td>
+  </tr>
+  <tr>
+    <td class="tg-2">Funded amount: 60.000€ </td>
+  </tr>
+  <tr>
   <td class="tg-1" rowspan="5">2015 - 2017</td>
   <td class="tg-2"><i> Procesamiento de imágenes digitales y aplicaciones</i></td>
 </tr>
@@ -127,6 +143,38 @@ nav_order: 3
   <td class="tg-2">Funded amount: 52.151€ </td>
 </tr>
 <tr>
+  <td class="tg-1" rowspan="5">2013 - 2015</td>
+  <td class="tg-2"><i> Optimization bord/sol débruitage et démosaïquage</i></td>
+</tr>
+<tr>
+  <td class="tg-2">Reference: R-S13/OT-0001-098</td>
+</tr>
+<tr>
+  <td class="tg-2">Principal investigator: Bartomeu Coll</td>
+</tr>
+<tr>
+  <td class="tg-2">Funding institution: Centre National d’Études Spatiales (France)</td>
+</tr>
+<tr>
+  <td class="tg-2">Funded amount: 60.000€ </td>
+</tr>
+<tr>
+  <td class="tg-1" rowspan="5">2013 - 2015</td>
+  <td class="tg-2"><i> Extraction 3D multi-vues en THR optique</i></td>
+</tr>
+<tr>
+  <td class="tg-2">Reference: R-S13/OT-0004-068</td>
+</tr>
+<tr>
+  <td class="tg-2">Principal investigator: Bartomeu Coll</td>
+</tr>
+<tr>
+  <td class="tg-2">Funding institution: Centre National d’Études Spatiales (France)</td>
+</tr>
+<tr>
+  <td class="tg-2">Funded amount: 80.000€ </td>
+</tr>
+<tr>
 <td class="tg-1" rowspan="5">2012 - 2015</td>
 <td class="tg-2"><i> Restauración y análisis matemático de imágenes</i></td>
 </tr>
@@ -141,6 +189,22 @@ nav_order: 3
 </tr>
 <tr>
 <td class="tg-2">Funded amount: 41.745€ </td>
+</tr>
+<tr>
+  <td class="tg-1" rowspan="5">2011 - 2013</td>
+  <td class="tg-2"><i> Methode automatique de calcul du relief par adaptation geometriques des fenetres aux occlusions et deformations du relief</i></td>
+</tr>
+<tr>
+  <td class="tg-2">Reference: DCT/SI/AP-2011.0011638</td>
+</tr>
+<tr>
+  <td class="tg-2">Principal investigator: Bartomeu Coll</td>
+</tr>
+<tr>
+  <td class="tg-2">Funding institution: Centre National d’Études Spatiales (France)</td>
+</tr>
+<tr>
+  <td class="tg-2">Funded amount: 70.000€ </td>
 </tr>
 </table>
 </div>
