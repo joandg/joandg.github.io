@@ -22,6 +22,7 @@ nav_order: 3
 .tg .tg-12{padding: 10px 8px 1px 8px; text-align:right;vertical-align:top}
 .tg .tg-22{padding: 10px 8px 1px 8px; text-align:left;vertical-align:top}
 </style>
+
 <table class="tg">
   <tr>
     <td class="tg-1" rowspan="5">2022 - 2024</td>
@@ -58,11 +59,6 @@ nav_order: 3
   </tr>
 </table>
 
-<h5 class="category" id="pastProj">Past Projects</h5>
-
-<table class="tg">
-  
-</table>
 
 
 </div>
