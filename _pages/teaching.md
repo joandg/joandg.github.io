@@ -4,7 +4,7 @@ title: Teaching
 permalink: /Teaching/
 # description:
 nav: true
-nav_order: 0
+nav_order: 6
 ---
 <div style="text-align: justify">
 This is a list of all courses I have teached at the <a href="https://uib.eu">University of the Balearic Islands</a> (UIB). All materials can be downloaded from <em>Aula Digital</em>. You are required to be a student at UIB and be enrolled in the corresponding course to have access to all data.
