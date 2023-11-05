@@ -27,8 +27,8 @@ nav_order: 4
 </style>
 <table class="tg">
   <tr>
-    <td class="tg-1" rowspan="4">2023 - present</td>
-    <td class="tg-2">M. Francesc Alcover</td>
+    <td class="tg-12" rowspan="4">2023 - present</td>
+    <td class="tg-22">M. Francesc Alcover</td>
   </tr>
   <tr>
     <td class="tg-2"><i>Nonlocal theory for variational problems and partial differential equations </i></td>
@@ -68,8 +68,8 @@ nav_order: 4
 
 <table class="tg">
   <tr>
-    <td class="tg-1" rowspan="3"> 09/2022 - 07/2023</td>
-    <td class="tg-2">Marc Tomás</td>
+    <td class="tg-12" rowspan="3"> 09/2022 - 07/2023</td>
+    <td class="tg-22">Marc Tomás</td>
   </tr>
   <tr>
     <td class="tg-2"><i>Deep unfolding networks for satellite image fusion</i></td>
