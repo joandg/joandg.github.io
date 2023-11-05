@@ -190,21 +190,5 @@ nav_order: 3
 <tr>
 <td class="tg-2">Funded amount: 41.745€ </td>
 </tr>
-<tr>
-  <td class="tg-1" rowspan="5">2011 - 2013</td>
-  <td class="tg-2"><i> Methode automatique de calcul du relief par adaptation geometriques des fenetres aux occlusions et deformations du relief</i></td>
-</tr>
-<tr>
-  <td class="tg-2">Reference: DCT/SI/AP-2011.0011638</td>
-</tr>
-<tr>
-  <td class="tg-2">Principal investigator: Bartomeu Coll</td>
-</tr>
-<tr>
-  <td class="tg-2">Funding institution: <a href="https://cnes.fr/en">Centre National d’Études Spatiales</a> (France)</td>
-</tr>
-<tr>
-  <td class="tg-2">Funded amount: 70.000€ </td>
-</tr>
 </table>
 </div>
