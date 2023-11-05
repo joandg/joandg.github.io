@@ -26,7 +26,7 @@ nav_order: 3
 <table class="tg">
   <tr>
     <td class="tg-1" rowspan="5">2022 - 2024</td>
-    <td class="tg-2"><i>Floating marine litter detection and classification using hyperspectral satellite imagery (MaLiSat)</i></td>
+    <td class="tg-2"><i>Floating marine litter detection and classification using hyperspectral satellite imagery</i></td>
   </tr>
   <tr>
     <td class="tg-2">Reference: TED2021-132644B-I00</td>
@@ -43,13 +43,13 @@ nav_order: 3
   <tr>
     <td class="tg-1" rowspan="5">2022 - 2025</td>
     <td class="tg-2"><i> Bringing together modelization and machine learning techniques for mathematical
-    multi-image processing and analysis (MoMaLIP)</i></td>
+    multi-image processing and analysis</i></td>
   </tr>
   <tr>
     <td class="tg-2">Reference: PID2021-125711OB-I00</td>
   </tr>
   <tr>
-    <td class="tg-2">Principal investigators: Antoni Buades and José Luis Lisani
+    <td class="tg-2">Principal investigators: Antoni Buades and José Luis Lisani</td>
   </tr>
   <tr>
     <td class="tg-2">Funding institution: Ministerio de Ciencia e Innovación (Spain)</td>
