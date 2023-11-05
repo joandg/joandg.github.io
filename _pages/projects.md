@@ -24,43 +24,17 @@ nav_order: 3
 </style>
 <table class="tg">
   <tr>
-    <td class="tg-1" rowspan="5">2022-2024</td>
+    <td class="tg-1" rowspan="5">2022 - 2024</td>
     <td class="tg-2"><i>Floating marine litter detection and classification using hyperspectral satellite imagery (MaLiSat)</i></td>
-  </tr>
-  <tr>
-    <td class="tg-2">Principal investigadors: Joan Duran and Salud Deudero</td>
   </tr>
   <tr>
     <td class="tg-2">Reference: TED2021-132644B-I00</td>
   </tr>
   <tr>
-    <td class="tg-2">Funding institution: Ministerio de Ciencia e Innovación, Spanish Government, and by The European Union NextGenerationEU. </td>
+    <td class="tg-2">Principal investigators: <u>Joan Duran</u> and <a href="http://www.ba.ieo.es/en/personal/12-contacts/15-salud-deudero-company">Salud Deudero</a></td>
   </tr>
   <tr>
-    <td class="tg-2">Funded amount: 212.750€</td>
-  </tr>
-  <tr>
-    <td class="tg-12" rowspan="3">2023 - present</td>
-    <td class="tg-22">Daniel Torres</td>
-  </tr>
-  <tr>
-    <td class="tg-2"><i>Combining variational models and deep learning for image processing problems</i></td>
-  </tr>
-  <tr>
-    <td class="tg-2"><a href="https://uib.eu">University of the Balearic Islands</a></td>
-  </tr>
-  <tr>
-    <td class="tg-12" rowspan="4">2021 - present</td>
-    <td class="tg-22">Iván Pereira-Sánchez</td>
-  </tr>
-  <tr>
-    <td class="tg-2"><i>Deep variational learning for multi-image super-resolution</i></td>
-  </tr>
-  <tr>
-    <td class="tg-2"><a href="https://uib.eu">University of the Balearic Islands</a></td>
-  </tr>
-  <tr>
-    <td class="tg-2">Co-advised with Dr. Julia Navarro</td>
+    <td class="tg-2">Funding institutions: Ministerio de Ciencia e Innovación (Spaint) and The European Union NextGenerationEU </td>
   </tr>
 </table>
 
