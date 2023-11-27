@@ -10,10 +10,6 @@ nav_order: 3
 <div style="text-align: justify">
 <p>This is a list of research projects and industry contracts I have been involved in, either as principal investigator or as researcher.</p>
 
-
-<div class="projects">
-<h5 class="category" id="currentProj">Current projects</h5>
-
 <style type="text/css">
 .tg  {border-collapse:collapse; border-width:0px}
 .tg td{padding:1px 8px;}
@@ -22,6 +18,9 @@ nav_order: 3
 .tg .tg-12{padding: 10px 8px 1px 8px; text-align:right;vertical-align:top}
 .tg .tg-22{padding: 10px 8px 1px 8px; text-align:left;vertical-align:top}
 </style>
+
+<div class="projects">
+<h5 class="category" id="currentProj">Current projects</h5>
 
 <table class="tg">
   <tr>

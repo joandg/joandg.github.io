@@ -14,9 +14,6 @@ nav_order: 4
 <p> You can find below the list of <a href="#mentPhD">PhD</a>, <a href="#mentUndergrad">undergraduate</a> and  <a href="#mentVisit">visiting</a> students I have supervised in research, and the <a href="#mentMSc">MSc</a> and <a href="#mentBSc">BSc</a> students whose thesis I have advised.</p>
 </div>
 
-<div class="projects">
-<h5 class="category" id="mentPhD">PhD students</h5>
-
 <style type="text/css">
 .tg  {border-collapse:collapse; border-width:0px}
 .tg td{padding:1px 8px;}
@@ -25,6 +22,10 @@ nav_order: 4
 .tg .tg-12{padding: 10px 8px 1px 8px; text-align:right;vertical-align:top}
 .tg .tg-22{padding: 10px 8px 1px 8px; text-align:left;vertical-align:top}
 </style>
+
+<div class="projects">
+<h5 class="category" id="mentPhD">PhD students</h5>
+
 <table class="tg">
   <tr>
     <td class="tg-12" rowspan="4">2023 - present</td>
