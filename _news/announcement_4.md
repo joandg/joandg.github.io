@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-06-23
+date: 2023-04-03
 inline: true
 ---
-New project <i>Bringing together modelization and machine learning techniques for mathematical multi-image processing and analysis</i> funded with 145.000€ by the Ministerio de Ciencia e Innovación of the Spanish Government for the period 2022-2025.
+Conference paper <i><a href="#TomasMifdalIGARSS2023">End-to-end shallow network for variational pansharpening</a></i> accepted at [IGARSS 2023](https://2023.ieeeigarss.org/), to be held in Pasadena, California.

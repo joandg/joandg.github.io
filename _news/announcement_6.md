@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-03-28
+date: 2023-10-10
 inline: true
 ---
-I got a permanent position as Associate Professor (<i>Profesor Titular de Universidad</i>) of Applied Mathematics in the Department of Mathematics and Computer Science at the University of the Balearic Islands.
+M. Francesc Alcover started his PhD on nonlocal theory for variational problems and partial differential equations.
