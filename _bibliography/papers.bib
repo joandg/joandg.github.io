@@ -29,16 +29,84 @@
 %% website = {}, Adds a "Website" button redirecting to the specified link
 %% arxiv = {}, Adds a link to the Arxiv website (Note: only add the arxiv identifier here - the link is generated automatically)
 
+
+@inproceedings{PereiraSansMIGARS2024,
+    selected = {false},
+    title = {A simple nonlocal back-projection unfolded network for pansharpening},
+    author = {Pereira-S\'anchez, I. and Sans, E. and Navarro, J. and Duran, J.},
+    booktitle = {Proceedings of the International Conference on Machine Intelligence for Geoanalytics and Remote Sensing (MIGARS},
+    address = {Wellington, New Zealand},
+    year = {2024},
+    abbr = {MIGARS},
+    bibtex_show = {true},
+    abstract = {Pansharpening is the fusion process that combines the geometry of a high-resolution panchromatic image with the spectral information encoded in a low-resolution multispectral image. We introduce a back-projection method to minimize the reconstruction error between the target image and the output produced by the Brovey pansharpening model. We replace the back-projection kernel with a residual network that incorporates a nonlocal module, exploiting self-similarity and built upon the multi-head attention mechanism. Experimental validation showcases that our method achieves state-of-the-art results.}
+}
+
+
+@inproceedings{CostaSansMIGARS2024,
+    selected = {false},
+    title = {Improving marine litter segmentation with limited resolution satellite imagery},
+    author = {Costa, A. and Sans, E. and Pereira-S\'anchez, I. and Duran, J. and Navarro, J.},
+    booktitle = {Proceedings of the International Conference on Machine Intelligence for Geoanalytics and Remote Sensing (MIGARS},
+    address = {Wellington, New Zealand},
+    year = {2024},
+    abbr = {MIGARS},
+    bibtex_show = {true},
+    abstract = {This work proposes a learning-based semantic segmentation approach to detect floating plastic litter on the marine surface using Sentinel-2 satellite data. We adopt a convolutional network with a reduced number of parameters and, apart from the multispectral data, we feed specific indexes to assist plastic segmentation. Our approach compares favorably against other learning-based methods tailored for the same task.}
+}
+
+@inproceedings{HammondSbertVISAPP2024,
+    selected = {false},
+    title = {Two nonlocal variational models for Retinex image decomposition},
+    author = {Hammond, F.W. and Sbert, C. and Duran, J.},
+    booktitle = {Proceedings of the International Conference on Computer Vision, Theory and Applications (VISAPP)},
+    address = {Rome, Italy},
+    year = {2024},
+    abbr = {VISAPP},
+    bibtex_show = {true},
+    abstract = {Unlike the human vision system, which is able to recognize color under different illumination conditions, the information captured by a digital camera highly depends on the light reflected by the objects in the scene. The Retinex theory assumes that a digital image can be decomposed into illumination and reflectance component.    In this work, we propose two variational models to solve the ill-posed inverse problem of estimating illumination and reflectance from a given observation. In both approaches, nonlocal regularization exploiting image self-similarities is used to estimate the reflectance, since it is assumed to contain fine details and texture. The difference between both models comes from the selected prior for the illumination component. The Sobolev norm, which promots smooth solutions, and the total variation semi-norm, which favours piecewise constant solutions,  are independently proposed. A theoretical analysis of the resulting energy functionals is provided in suitable functional spaces.}
+}
+
+
+@inproceedings{PereiraSansVISAPP2024,
+    selected = {false},
+    title = {Beyond variational models and self-similarity in super-resolution: Unfolding models and multi-head attention},
+    author = {Pereira-S\'anchez, I. and Sans, E. and Navarro, J. and Duran, J.},
+    booktitle = {Proceedings of the International Conference on Computer Vision, Theory and Applications (VISAPP)},
+    address = {Rome, Italy},
+    year = {2024},
+    abbr = {VISAPP},
+    bibtex_show = {true},
+    abstract = {Classical variational methods for solving image processing problems are more interpretable and flexible than pure deep learning approaches, but their performance is limited by the use of rigid priors. Deep unfolding networks combine the strengths of both by unfolding the steps of the optimization algorithm used to estimate the minimizer of an energy functional into a deep learning framework. In this paper, we propose an unfolding approach to extend a variational model exploiting self-similarity of natural images in the data fidelity term for single-image super-resolution. The proximal, downsampling and upsampling operators are written in terms of a neural network specifically designed for each purpose. Moreover, we include a new multi-head attention module to replace the nonlocal term in the original formulation. A comprehensive evaluation covering a wide range of sampling factors and noise realizations proves the benefits of the proposed unfolding techniques. The model shows to better preserve image geometry while being robust to noise.}
+}
+
+@inproceedings{TorresSbertVISAPP2024,
+    selected = {false},
+    title = {Combining total variation and nonlocal variational models for low- light image enhancement},
+    author = {Torres, D. and Sbert, C. and Duran, J.},
+    booktitle = {Proceedings of the International Conference on Computer Vision, Theory and Applications (VISAPP)},
+    address = {Rome, Italy},
+    year = {2024},
+    abbr = {VISAPP},
+    bibtex_show = {true},
+    abstract = {The rapid expansion of technology has popularized the use of image processing techniques in several fields. However, images captured under low-light conditions impose significant limitations on the performance of these methods. Therefore, improving the quality of these images by discounting the effect of the illumination is crucial. In this paper, we present a low-light image enhancement method based on the Retinex theory. Our approach estimates illumination and reflectance in two steps. First, the illumination is obtained as the minimizer of an energy functional involving total variation regularization, which favours piecewise smooth solutions. Afterwards, the reflectance component is computed as the minimizer of an energy involving contrast-invariant nonlocal regularization and a fidelity term preserving the largest gradients of the input image.}
+}
+
+
 @inproceedings{MifdalTomasCVPR2023,
     selected = {true},
     title = {Deep unfolding for hypersharpening using a high-frequency injection module},
     author = {Mifdal, J. and Tom{\'a}s-Cruz, M. and Sebastianelli, A. and Coll, B. and Duran, J.},
     booktitle = {Proceedings of the IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), Earthvision Workshop},
     address = {Vancouver, Canada},
+    pages = {2105--2114},
     year = {2023},
     abbr = {CVPR},
     bibtex_show = {true},
-    abstract = {The fusion of multi-source data with different spatial and spectral resolutions is a crucial task in many remote sensing and computer vision applications. Model-based fusion methods are more interpretable and flexible than pure data-driven learning networks, however, their performance depends greatly on the established fusion model and the hand-crafted prior. In this work, we propose an end-to-end trainable model-based network for hyperspectral and panchromatic image fusion. We introduce an energy functional that takes into account classical observation models and incorporates a high-frequency details injection constraint. The resulting optimization function is solved by a forward-backward splitting algorithm and unfolded into a deep-learning framework that uses two modules trained in parallel to ensure both data observation fitting and constraint compliance. Extensive experiments are conducted on the remote-sensing hyperspectral PRISMA dataset and on the CAVE dataset, proving the superiority of the proposed deep unfolding network both qualitatively and quantitatively.}
+    doi = {10.1109/CVPRW59228.2023.00204},
+    html = {https://ieeexplore.ieee.org/abstract/document/10208956},
+    abstract = {The fusion of multi-source data with different spatial and spectral resolutions is a crucial task in many remote sensing and computer vision applications. Model-based fusion methods are more interpretable and flexible than pure data-driven learning networks, however, their performance depends greatly on the established fusion model and the hand-crafted prior. In this work, we propose an end-to-end trainable model-based network for hyperspectral and panchromatic image fusion. We introduce an energy functional that takes into account classical observation models and incorporates a high-frequency details injection constraint. The resulting optimization function is solved by a forward-backward splitting algorithm and unfolded into a deep-learning framework that uses two modules trained in parallel to ensure both data observation fitting and constraint compliance. Extensive experiments are conducted on the remote-sensing hyperspectral PRISMA dataset and on the CAVE dataset, proving the superiority of the proposed deep unfolding network both qualitatively and quantitatively.},
+    poster = {2023-cvpr.pdf}
 }
 
 @inproceedings{TomasMifdalIGARSS2023,
@@ -47,10 +115,14 @@
     author = {Tom{\'a}s-Cruz, M. and Mifdal, J. and Coll, B. and Duran, J.},
     booktitle = {Proceedings of the IEEE International Geoscience and Remote Sensing Symposium (IGARSS)},
     address = {Pasadena, California},
+    pages = {6803-6806},
     year = {2023},
     abbr = {IGARSS},
+    doi = {10.1109/IGARSS52108.2023.10282759},
+    html = {https://ieeexplore.ieee.org/abstract/document/10282759},
     bibtex_show = {true},
-    abstract = {Pansharpening aims to fuse the geometry of a high-resolution panchromatic image with the color information of a low-resolution multispectral image to generate a high-resolution multispectral image. Classical variational methods are more interpretable and flexible than pure deep learning approaches, but their performance is limited by the use of rigid priors. In this paper, we efficiently combine both techniques by introducing a shallow residual network to learn the regularization term of a variational pansharpening model. The proposed energy includes the classical observation model for the multispectral data and a constraint to preserve the geometry encoded in the panchromatic. The experiments demonstrate that our method achieves state-of-the-art results.}
+    abstract = {Pansharpening aims to fuse the geometry of a high-resolution panchromatic image with the color information of a low-resolution multispectral image to generate a high-resolution multispectral image. Classical variational methods are more interpretable and flexible than pure deep learning approaches, but their performance is limited by the use of rigid priors. In this paper, we efficiently combine both techniques by introducing a shallow residual network to learn the regularization term of a variational pansharpening model. The proposed energy includes the classical observation model for the multispectral data and a constraint to preserve the geometry encoded in the panchromatic. The experiments demonstrate that our method achieves state-of-the-art results.},
+    poster = {2023-igarss.pdf}
 }
 
 @inproceedings{PereiraNavarroDuranICIP2022,
@@ -63,7 +135,8 @@
     abbr = {ICIP},
     html = {https://ieeexplore.ieee.org/abstract/document/9897904},
     bibtex_show = {true},
-    abstract = {In this work, we introduce a novel variational model for image restoration. In particular, we study the suitability of exploit- ing self-similarity of natural images in the fidelity term. Tra- ditionally, this cue has been used for the regularization term, promoting to align similarities in the degraded image with similarities in the restored one. In contrast, our proposed non- local data-fidelity term penalizes deviations of patches after having suffered from the degradation process if they are sim- ilar in the degraded image. Experiments on super-resolution, denoising and depth filtering show the competitiveness of this new formulation with respect to traditional nonlocal regular- ization terms and recent learning-based methods.}
+    abstract = {In this work, we introduce a novel variational model for image restoration. In particular, we study the suitability of exploit- ing self-similarity of natural images in the fidelity term. Tra- ditionally, this cue has been used for the regularization term, promoting to align similarities in the degraded image with similarities in the restored one. In contrast, our proposed non- local data-fidelity term penalizes deviations of patches after having suffered from the degradation process if they are sim- ilar in the degraded image. Experiments on super-resolution, denoising and depth filtering show the competitiveness of this new formulation with respect to traditional nonlocal regular- ization terms and recent learning-based methods.},
+    poster = {2022-whatif.pdf}
 }
 
 @article{MifdalCollFromentDuranMDPI2021,
