@@ -131,7 +131,7 @@
             {%- endif -%}
           {%- elsif entry.type == "inproceedings" -%}
             {%- capture entrytype -%}In <em> {{entry.booktitle}},</em>{%- endcapture -%}
-            {%- if entry.adress -%}
+            {%- if entry.address -%}
             {%- capture entryaddress -%}{{ " " }}{{entry.address}}{%- endcapture -%}
             {%- endif -%}
             {%- if entry.year -%}
