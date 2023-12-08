@@ -4,7 +4,7 @@
 
 "Mifdal":
   - firstname: ["Mifdal", "J.", "J. M.", "Jamila Mifdal"]
-    url: https://jamilamifdal.com/
+    url: https://scholar.google.co.uk/citations?hl=en&user=fWqPN8oAAAAJ&view_op=list_works&authuser=1
 
 "Moeller":
   - firstname: ["Moeller", "M.", "M. M.", "Michael Moeller"]
@@ -13,3 +13,15 @@
 "Cremers":
   - firstname: ["Cremers", "D.", "D. C.", "Daniel Cremers"]
     url: https://vision.in.tum.de/members/cremers
+    
+"Sbert":
+  - firstname: ["Sbert", "C.", "C. S.", "Catalina Sbert"]
+    url: https://scholar.google.co.uk/citations?hl=en&authuser=1&user=9k9tTxsAAAAJ
+    
+"Navarro":
+  - firstname: ["Navarro", "J.", "J. N.", "Julia Navarro"]
+    url: https://scholar.google.co.uk/citations?hl=en&authuser=1&user=xnEqXFwAAAAJ
+
+"Buades":
+  - firstname: ["Baudes", "A.", "A. B.", "Antoni Buades"]
+    url: https://scholar.google.co.uk/citations?hl=en&authuser=1&user=on1RaQQAAAAJ
