@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2023-12-04
+date: 2023-12-07
 inline: true
 ---
-Two short conference papers <i><a href="#CostaSansMIGARS2024">Improving marine litter segmentation with limited resolution satellite imagery</a></i> and <i><a href="#PereiraSansMIGARS2024">A simple nonlocal back-projection unfolded network for pansharpening</a></i> accepted at [MIGARS 2024](https://conferences.co.nz/migars2024/), to be held in Wellington, New Zealand.
+Three conference papers <i><a href="#HammondSbertVISAPP2024">Two nonlocal variational models for Retinex image decomposition</a></i>, <i><a href="#PereiraSansVISAPP2024">Beyond variational models and self-similarity in
+super-resolution: Unfolding models and multi-head attention</a></i> and  <i><a href="#TorresSbertVISAPP2024">Combining total variation and nonlocal variational models for lowlight image enhancement</a></i> accepted at [VISAPP 2024](https://visapp.scitevents.org/), to be held in Rome, Italy.
