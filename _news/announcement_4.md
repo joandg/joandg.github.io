@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-04-03
+date: 2023-12-04
 inline: true
 ---
-<i><a href="Publications/#TomasMifdalIGARSS2023">End-to-end shallow network for variational pansharpening</a></i> accepted at [IGARSS 2023](https://2023.ieeeigarss.org/), to be held in Pasadena, California.
+<a href="Publications/#PereiraSansMIGARS2024">Two short conference papers</a> accepted at [MIGARS 2024](https://conferences.co.nz/migars2024/), to be held in Wellington, New Zealand.

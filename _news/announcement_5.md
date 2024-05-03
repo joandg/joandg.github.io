@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-04-04
+date: 2023-12-07
 inline: true
 ---
-<i><a href="Publications/#MifdalTomasCVPR2023">Deep unfolding for hypersharpening using a high-frequency injection module</a></i> accepted at [CVPR Earthvision Workshop 2023](https://www.grss-ieee.org/events/earthvision-2023/), to be held in Vancouver, Canada.
+<a href="Publications/#HammondSbertVISAPP2024">Three conference papers</a> accepted at [VISAPP 2024](https://visapp.scitevents.org/), to be held in Rome, Italy.
