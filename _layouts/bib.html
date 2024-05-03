@@ -125,10 +125,7 @@
 
           <!-- Journal/Book title and date -->
           {% if entry.type == "article" -%}
-            {%- capture entrytype -%}<em>{{entry.journal}},</em>{%- endcapture -%}
-            {%- if entry.volume -%}
-            {%- capture entryvolume -%}{{ " " }}{{entry.volume}}{%- endcapture -%}
-            {%- endif -%}
+            {%- capture entrytype -%}<em>{{entry.journal}},</em> vol. {{entry.volume}}, pp. {{entry.pages}}{%- endcapture -%}
             {%- if entry.year -%}
             {%- capture entryyear -%}{{ " " }}{{entry.year}}{%- endcapture -%}
             {%- endif -%}
