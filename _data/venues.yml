@@ -4,6 +4,9 @@
 "inproceedings":
   color: "#3EA055"
   
+"incollection":
+  color: "#E00909"
+  
 "misc":
   color: "#3EA055"
   
