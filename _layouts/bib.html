@@ -134,6 +134,11 @@
             {%- if entry.year -%}
             {%- capture entryyear -%}{{ " " }}{{entry.year}}{%- endcapture -%}
             {%- endif -%}
+          {%- elsif entry.type == "incollection" -%}
+            {%- capture entrytype -%}In <em> {{entry.booktitle}},</em> {{entry.address}},{%- endcapture -%}
+            {%- if entry.year -%}
+            {%- capture entryyear -%}{{ " " }}{{entry.year}}{%- endcapture -%}
+            {%- endif -%}
           {%- elsif entry.type == "misc" -%}
                 {%- capture entrytype -%} {{entry.address}}<br> {{entry.date}} {%- endcapture -%}
           {%- elsif entry.type == "techreport" -%}
