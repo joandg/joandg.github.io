@@ -79,7 +79,7 @@ nav_order: 4
   <td class="tg-2">Student of the BSc in Mathematics at <a href="https://uib.eu">University of the Balearic Islands</a></td>
 </tr>
   <tr>
-    <td class="tg-12" rowspan="3"> 09/2022 - 07/2023</td>
+    <td class="tg-12" rowspan="3"> 09/2022 - present</td>
     <td class="tg-22">Marc Tomás</td>
   </tr>
   <tr>
